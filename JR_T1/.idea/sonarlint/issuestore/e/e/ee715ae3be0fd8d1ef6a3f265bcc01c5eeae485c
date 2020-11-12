@@ -1,0 +1,13 @@
+
+E	java:S108")Either remove or fill this block of code.(Ë‡¯İ8È¤ºâÛ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û†ª‹şÿÿÿÿ8È¤ºâÛ.
+”
+java:S1319"rThe type of the "strings" object should be an interface such as "List" rather than the implementation "ArrayList".(î•ÿ±ÿÿÿÿÿ8¦¶·âÛ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÛşÄ8‹º¶âÛ.
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(î•ÿ±ÿÿÿÿÿ8¦¶·âÛ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±¤ª¹8‹º¶âÛ.
+@
+java:S1659"#Declare "trig2" on a separate line.(ØĞ°Ù8µÀâÛ.
