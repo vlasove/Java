@@ -1,13 +1,13 @@
 
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(†™ñ‹8¥ÑÿáÛ.
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì‡ª–ûÿÿÿÿ8²µòáÛ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¤‚üùÿÿÿÿ8²µòáÛ.
+Œ
+java:S1319'"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Ôµ”Ä8¥ÑÿáÛ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡öï‡8²µòáÛ.
 v
 java:S2293
 "YReplace the type specification in this constructor call with the diamond operator ("<>").(—ÇµÁ8²µòáÛ.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡öï‡8²µòáÛ.
-Œ
-java:S1319'"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Ôµ”Ä8¥ÑÿáÛ.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¤‚üùÿÿÿÿ8²µòáÛ.
-U	java:S106)"9Replace this use of System.out or System.err by a logger.(†™ñ‹8¥ÑÿáÛ.

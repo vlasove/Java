@@ -1,9 +1,9 @@
 
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¯‚Æÿÿÿÿÿ8¯¸œâÛ.
 j
 java:S1192
 "MDefine a constant instead of duplicating this literal "Ð¸Ð¼ÐµÐ½Ð½Ð¾" 3 times.(ðïä²8®ƒ©âÛ.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¯‚Æÿÿÿÿÿ8¯¸œâÛ.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹8¬æ©âÛ.
 ‘
 java:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(šÆ³¦ûÿÿÿÿ8¬æ©âÛ.
