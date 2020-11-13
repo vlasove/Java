@@ -1,0 +1,10 @@
+
+;
+java:S2129"Remove this "Long" constructor(ã”‹ğ8ù¸šŒÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤¡æĞûÿÿÿÿ8ÔÄŸŒÜ.
+E
+java:S2129"#Remove this "Character" constructor(ÕÊõêùÿÿÿÿ8ù¸šŒÜ.
+I
+java:S1874",Remove this use of "Long"; it is deprecated.(ã”‹ğ8ù¸šŒÜ.
+S
+java:S1874"1Remove this use of "Character"; it is deprecated.(ÕÊõêùÿÿÿÿ8ù¸šŒÜ.
