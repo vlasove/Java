@@ -1,0 +1,9 @@
+
+[
+java:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.(€«Ñu8Öí´ÂÜ.
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(û‰É
+8Öí´ÂÜ.
+B
+java:S1481"&Remove this unused "m" local variable.(€«Ñu8Öí´ÂÜ.
+Q
+java:S1854"5Remove this useless assignment to local variable "m".(€«Ñu8Öí´ÂÜ.

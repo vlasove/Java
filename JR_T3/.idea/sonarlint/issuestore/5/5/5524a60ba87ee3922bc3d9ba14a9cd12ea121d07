@@ -1,0 +1,8 @@
+
+R
+java:S1854	"5Remove this useless assignment to local variable "s".(³úß8Üã»ÂÜ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼8Üã»ÂÜ.
+C
+java:S1481	"&Remove this unused "s" local variable.(³úß8Üã»ÂÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ÿ½ÂÜ.
