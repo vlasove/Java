@@ -1,0 +1,9 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÊâÜûÿÿÿÿ8£¨µ·Ü.
+ž
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ì‰™å8©Ú¼·Ü.
+T	java:S106G"9Replace this use of System.out or System.err by a logger.(ä¾ÈZ8»›Ð·Ü.
+X	java:S125;"<This block of commented-out lines of code should be removed.(ÇåñØ8ÓÙÍ·Ü.
+ž
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(… Šó8¼±½·Ü.
