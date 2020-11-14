@@ -1,5 +1,20 @@
 
-M
-java:S1481	"+Remove this unused "string" local variable.(©ÖÐúøÿÿÿÿ8¿‰ö·Ü.
-\
-java:S1854	":Remove this useless assignment to local variable "string".(©ÖÐúøÿÿÿÿ8¿‰ö·Ü.
+B
+java:S2129" Remove this "String" constructor(½Š˜ùøÿÿÿÿ8’ÈŸ¾Ü.
+>
+java:S1643"Use a StringBuilder instead.(¥Ý÷ñÿÿÿÿÿ8¦óª¾Ü.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ„ÿÝ8’ÈŸ¾Ü.
+B
+java:S2129" Remove this "String" constructor(½Š˜ùøÿÿÿÿ8úê§¾Ü.
+>
+java:S1643"Use a StringBuilder instead.(¥Ý÷ñÿÿÿÿÿ8úê§¾Ü.
+B
+java:S2129%" Remove this "String" constructor(½Š˜ùøÿÿÿÿ8õ¾³¾Ü.
+>
+java:S1643("Use a StringBuilder instead.(¥Ý÷ñÿÿÿÿÿ8õ¾³¾Ü.
+>
+java:S1643*"Use a StringBuilder instead.(¥Ý÷ñÿÿÿÿÿ8õ¾³¾Ü.
+Y
+java:S1854"7Remove this useless assignment to local variable "ans".(½Š˜ùøÿÿÿÿ8’ÈŸ¾Ü.
+J
+java:S1481"(Remove this unused "ans" local variable.(½Š˜ùøÿÿÿÿ8’ÈŸ¾Ü.

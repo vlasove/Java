@@ -1,0 +1,8 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÿŠÆ¾Ü.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ñŞÜ©8Ø…æ¾Ü.
+>
+java:S1643]"Use a StringBuilder instead.(ÏÄ¸¸ùÿÿÿÿ8æÇÇ¾Ü.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ÿŠÆ¾Ü.

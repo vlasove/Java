@@ -41,3 +41,17 @@ H
 src/main/Solution19.java,5\3\53545b713c392610162fddb2ee5e6aa9c3c0b4b4
 H
 src/main/Solution20.java,1\6\16833beec967dce01117eac21708559a3d1dee35
+H
+src/main/Solution21.java,0\7\07501bada7d15d0fa91a2df0dc237643433b8c18
+H
+src/main/Solution22.java,0\f\0fe6ec76f42f2d5a480cdd026027ce9bb1cdaa69
+H
+src/main/Solution23.java,6\5\65367e1c138c5290aa7f55f003634f652366535c
+H
+src/main/Solution24.java,f\1\f19a9806fe4cc42b130868dd42b3744681eeacdd
+H
+src/main/Solution25.java,9\a\9ab71145c9f860bb855d7d7256df8d919282d125
+H
+src/main/Solution27.java,9\2\92a33a4c34676799cd7db3ccada40003075391da
+H
+src/main/Solution28.java,7\3\73430d6fa3b0b6185f58e943866531d822d1528d
