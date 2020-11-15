@@ -8,8 +8,9 @@ public class Solution18 {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         ArrayList<String> list = new ArrayList<>();
-        while (reader.ready()) {
+        while (true) {
             String s = reader.readLine();
+            if (s.isEmpty()){break;}
             list.add(s);
         }
 
@@ -23,6 +24,38 @@ public class Solution18 {
 
     public static void sort(String[] array) {
         //TODO сортировка по одному массиву. Строковые литералы по возрастанию. Числа - по убыванию.
+        //Найдем индексы всех чисел и строк
+        ArrayList<Integer> intIds = new ArrayList<>();
+        ArrayList<Integer> strIds = new ArrayList<>();
+        for(int i =0; i < array.length; i++){
+            if(isNumber(array[i])){
+                intIds.add(i);
+            } else{
+                strIds.add(i);
+            }
+        }
+        //Сортируем по числам
+        for(int j =0; j < intIds.size() - 1; j++){
+            for(int k =0; k < intIds.size() -1 - j; k++){
+                if (Integer.parseInt(array[intIds.get(k)]) < Integer.parseInt(array[intIds.get(k + 1)])){
+                    String temp = array[intIds.get(k)];
+                    array[intIds.get(k)] = array[intIds.get(k + 1)];
+                    array[intIds.get(k+1)] = temp;
+                }
+            }
+        }
+        //Соритруем по строкам
+        for(int j =0; j < strIds.size() - 1; j++){
+            for(int k =0; k < strIds.size() -1 - j; k++){
+                if (isGreaterThan(array[strIds.get(k)], array[strIds.get(k+1)])){
+                    String temp = array[strIds.get(k)];
+                    array[strIds.get(k)] = array[strIds.get(k + 1)];
+                    array[strIds.get(k+1)] = temp;
+                }
+            }
+        }
+
+
     }
 
     // Метод для сравнения строк: 'а' больше чем 'b'
