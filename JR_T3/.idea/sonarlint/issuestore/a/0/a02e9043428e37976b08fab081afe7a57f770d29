@@ -1,16 +1,16 @@
 
-F
-java:S2140*")Use "java.util.Random.nextInt()" instead.(Ì‘—Ğ8×õÂÜ.
-
-java:S1130)"|Remove the declaration of thrown exception 'java.nio.file.FileSystemException' which is a subclass of 'java.io.IOException'.(ğ¯ü•ûÿÿÿÿ8×õÂÜ.
-Z	java:S106&"9Replace this use of System.out or System.err by a logger.(³•òßüÿÿÿÿ8×õÂÜ.
-œ
-java:S1130)"zRemove the declaration of thrown exception 'java.io.CharConversionException' which is a subclass of 'java.io.IOException'.(ğ¯ü•ûÿÿÿÿ8×õÂÜ.
-q
-java:S3008"ORename this field "BEAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Û­®ûÿÿÿÿ8×õÂÜ.
-L
-java:S1444"*Make this "public static BEAN" field final(§Û­®ûÿÿÿÿ8×õÂÜ.
 a
 java:S1128"?Remove this unused import 'java.beans.beancontext.BeanContext'.(¸ë‰üÿÿÿÿ8†ÈüÂÜ.
 r
 java:S1104"PMake BEAN a static final constant or non-public and provide accessors if needed.(§Û­®ûÿÿÿÿ8×õÂÜ.
+L
+java:S1444"*Make this "public static BEAN" field final(§Û­®ûÿÿÿÿ8×õÂÜ.
+q
+java:S3008"ORename this field "BEAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Û­®ûÿÿÿÿ8×õÂÜ.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(³•òßüÿÿÿÿ8•÷ÑÅÜ.
+œ
+java:S1130'"zRemove the declaration of thrown exception 'java.io.CharConversionException' which is a subclass of 'java.io.IOException'.(ğ¯ü•ûÿÿÿÿ8•÷ÑÅÜ.
+
+java:S1130'"|Remove the declaration of thrown exception 'java.nio.file.FileSystemException' which is a subclass of 'java.io.IOException'.(ğ¯ü•ûÿÿÿÿ8•÷ÑÅÜ.
+F
+java:S2140(")Use "java.util.Random.nextInt()" instead.(Ì‘—Ğ8•÷ÑÅÜ.

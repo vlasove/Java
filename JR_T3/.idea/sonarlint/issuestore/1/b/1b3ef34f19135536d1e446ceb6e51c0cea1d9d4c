@@ -1,0 +1,14 @@
+
+t
+java:S1104
+"RMake vowels a static final constant or non-public and provide accessors if needed.(âôŠ”úÿÿÿÿ8¹÷ÊÉÜ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(èŸÛ¸8¬ûÚÉÜ.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ÒÉÑÉÜ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¬ûÚÉÜ.
+N
+java:S1444
+",Make this "public static vowels" field final(âôŠ”úÿÿÿÿ8¹÷ÊÉÜ.
+?
+java:S2386
+"Make this member "protected".(âôŠ”úÿÿÿÿ8¹÷ÊÉÜ.

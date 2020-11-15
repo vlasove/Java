@@ -9,7 +9,7 @@ public class Solution6 {
             HashMap<String, String> map = new HashMap<String, String>(null);
             map.put(null, null);
             map.remove(null);
-        } catch (NullPointerException e){
+        } catch (NullPointerException e) {
             System.out.println(e);
         }
     }

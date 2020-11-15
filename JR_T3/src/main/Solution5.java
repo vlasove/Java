@@ -7,7 +7,7 @@ public class Solution5 {
         try {
             ArrayList<String> list = new ArrayList<String>();
             String s = list.get(18);
-        } catch (IndexOutOfBoundsException e){
+        } catch (IndexOutOfBoundsException e) {
             System.out.println(e);
         }
     }

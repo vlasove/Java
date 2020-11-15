@@ -13,9 +13,9 @@ public class Solution8 {
     public static StatelessBean BEAN = new StatelessBean();
 
     public static void main(String[] args) {
-        try{
+        try {
             handleExceptions();
-        } catch (FileSystemException e){
+        } catch (FileSystemException e) {
             BEAN.log(e);
         }
     }
@@ -23,12 +23,10 @@ public class Solution8 {
     public static void handleExceptions() throws FileSystemException {
         try {
             BEAN.methodThrowExceptions();
-        }
-        catch (FileSystemException e) {
+        } catch (FileSystemException e) {
             BEAN.log(e);
             throw e;
-        }
-        catch (Exception e){
+        } catch (Exception e) {
             BEAN.log(e);
         }
     }

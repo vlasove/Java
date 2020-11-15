@@ -1,9 +1,9 @@
 
 W
 java:S1854"5Remove this useless assignment to local variable "a".(ª§¥·ıÿÿÿÿ8Ä¥ÂÜ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Å’§ÂÜ.
 e
 java:S3518"CMake sure this expression can't be zero before doing this division.(ª§¥·ıÿÿÿÿ8Ä¥ÂÜ.
 H
 java:S1481"&Remove this unused "a" local variable.(ª§¥·ıÿÿÿÿ8Ä¥ÂÜ.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Å’§ÂÜ.
