@@ -1,6 +1,6 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹8ĞÇÉÜ.
 R
 java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÆåŸÉÜ.
 D
 java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ĞÇÉÜ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹8ĞÇÉÜ.
