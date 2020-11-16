@@ -1,8 +1,8 @@
 
-Œ
-java:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(™ÇŸÜ8œè‰İ.
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¯‚Æÿÿÿÿÿ8œè‰İ.
+Œ
+java:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(™ÇŸÜ8œè‰İ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(îëÛÜşÿÿÿÿ8œè‰İ.
 u
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú‰Ó$8œè‰İ.
