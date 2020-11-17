@@ -1,7 +1,7 @@
 package proj;
 
 
-public class Robot extends AbstractRobot  {
+public class Robot extends AbstractRobot {
 
     private String name;
 
