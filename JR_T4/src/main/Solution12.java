@@ -1,5 +1,4 @@
 package main;
-
 import java.awt.*;
 
 /*
@@ -24,12 +23,12 @@ public class Solution12 {
             return "Fox";
         }
     }
-    //TODO: Исправить этот класс, что-то тут не чисто
-    public static class BigFox extends Fox {
-        public Color() {
+
+    public static class BigFox extends Fox{
+        public Color getColor() {
             return Color.GRAY;
         }
+
     }
 
 }
-

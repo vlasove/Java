@@ -1,0 +1,13 @@
+
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—´öF8¼ÍÒ´İ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”Ğˆî8¼ÍÒ´İ.
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8¼ÍÒ´İ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„€ÀÃ8¼ÍÒ´İ.
+O
+java:S1610"3Convert the abstract class "Fox" into an interface.(—´öF8¼ÍÒ´İ.
+U
+java:S3400"9Remove this method and declare a constant for this value.(á£¦B8¼ÍÒ´İ.
+T
+java:S1135"2Complete the task associated to this TODO comment.(êÉ¶şùÿÿÿÿ8¸ÎÙ´İ.
