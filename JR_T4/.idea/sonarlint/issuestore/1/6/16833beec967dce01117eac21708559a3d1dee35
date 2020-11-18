@@ -1,0 +1,11 @@
+
+U
+java:S3400"9Remove this method and declare a constant for this value.(á£¦B8¦ÏÆ¿Ý.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„€ÀÃ8¦ÏÆ¿Ý.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”Ðˆî8¦ÏÆ¿Ý.
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8¦ÏÆ¿Ý.
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—´öF8¦ÏÆ¿Ý.
+O
+java:S1610"3Convert the abstract class "Fox" into an interface.(—´öF8¦ÏÆ¿Ý.
