@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Úİ÷¶8Í“¡æİ.
+g
+java:S11248"EReorder the modifiers to comply with the Java Language Specification.(á–ÎÎúÿÿÿÿ8ÿÇæİ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¨‚¥ùÿÿÿÿ
+d
+java:S20948"BRemove this empty class, write its code or make it an "interface".(á–ÎÎúÿÿÿÿ8ÿÇæİ.
+\
+java:S1118$":Add a private constructor to hide the implicit public one.(Ü•®ışÿÿÿÿ8ÿÇæİ.
+`
+java:S2259"CA "NullPointerException" could be thrown; "movie" is nullable here.(Úİ÷¶8Í“¡æİ.
+W
+java:S16108"5Convert the abstract class "Movie" into an interface.(á–ÎÎúÿÿÿÿ8ÿÇæİ.
+i
+java:S2259"GA "NullPointerException" could be thrown; "getMovie()" can return null.(ØÙûüÿÿÿÿ8Ş¦¦æİ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÙûüÿÿÿÿ8Ş¦¦æİ.

@@ -1,0 +1,8 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(åÿÑ¹şÿÿÿÿ8ì‚Îáİ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…÷–»ıÿÿÿÿ8‘ŠÈáİ.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(œÿ€Å8ì‚Îáİ.
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(åÂû8‘ŠÈáİ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½Ñ¥‘ÿÿÿÿÿ8ì‚Îáİ.
