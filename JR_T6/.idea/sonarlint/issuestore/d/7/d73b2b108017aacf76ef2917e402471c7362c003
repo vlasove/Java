@@ -1,0 +1,8 @@
+
+V
+java:S3400"9Remove this method and declare a constant for this value.(γύ¶8»ÿή.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘8»ÿή.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ρ΄ίωÿÿÿÿ
+V
+java:S3400"9Remove this method and declare a constant for this value.(»Ϋ‘8»ÿή.

@@ -1,5 +1,10 @@
 package lection;
-
+class Cat{
+    public static int age;
+    public Cat(){
+        Cat.age = 30;
+    }
+}
 public class Solution {
     private static String val = "val";
 
@@ -9,10 +14,15 @@ public class Solution {
 
         me.setMyParent(parent);
         Cat myParent = me.getMyParent();
+        System.out.println(Cat.age);
     }
 
     static class Cat{
+        public static Integer age;
         public Cat parent;
+        Cat(){
+            age = 20;
+        }
         public Cat getMyParent(){
             System.out.println("getMyParent() in CAT!");
             return this.parent;

@@ -1,0 +1,26 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÖÙúûÿÿÿÿ8„øæŞ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(™º”B8á›èŞ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²’Æ8á›èŞ.
+J
+java:S1172"(Remove this unused method parameter "b".(é§¹½ÿÿÿÿÿ8„øæŞ.
+J
+java:S1172"(Remove this unused method parameter "f".(­İÍÿıÿÿÿÿ8„øæŞ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆâÌÀ8òÍèŞ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¸ÖÙúûÿÿÿÿ8„øæŞ.
+J
+java:S1172"(Remove this unused method parameter "c".(¥—¾Àıÿÿÿÿ8„øæŞ.
+…
+java:S1192
+"cDefine a constant instead of duplicating this literal "Ğ¯ Ğ±ÑƒĞ´Ñƒ Java Ğ¿Ñ€Ğ¾Ğ³ĞµÑ€Ğ¾Ğ¼!" 5 times.(¸ÖÙúûÿÿÿÿ8„øæŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÖÙúûÿÿÿÿ8„øæŞ.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.( Á8Ù°çŞ.
+J
+java:S1172"(Remove this unused method parameter "d".(ì¶±øÿÿÿÿ8„øæŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÖÙúûÿÿÿÿ8„øæŞ.
+J
+java:S1172"(Remove this unused method parameter "l".(°„•°úÿÿÿÿ8„øæŞ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈĞÙØùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÖÙúûÿÿÿÿ8„øæŞ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯íÌÃ8°‹éŞ.

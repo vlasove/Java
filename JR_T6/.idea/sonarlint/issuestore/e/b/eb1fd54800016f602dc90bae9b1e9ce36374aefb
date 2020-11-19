@@ -1,0 +1,42 @@
+
+U
+java:S1444&"3Make this "public static LUXURIOUS_CAR" field final(Õ’ıÿÿÿÿ8–ï›Ş.
+y
+java:S1104%"WMake WANT_STRING a static final constant or non-public and provide accessors if needed.(œñÄÕüÿÿÿÿ8–ï›Ş.
+z
+java:S1104("XMake FERRARI_NAME a static final constant or non-public and provide accessors if needed.(ÜÑøìùÿÿÿÿ8–ï›Ş.
+S
+java:S1444%"1Make this "public static WANT_STRING" field final(œñÄÕüÿÿÿÿ8–ï›Ş.
+x
+java:S3008%"VRename this field "WANT_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñÄÕüÿÿÿÿ8–ï›Ş.
+R
+java:S1444)"0Make this "public static LANOS_NAME" field final(àËŒºıÿÿÿÿ8–ï›Ş.
+W
+java:S1161":Add the "@Override" annotation above this method signature(¶†îÙ8­è§Ş.
+x
+java:S1104)"VMake LANOS_NAME a static final constant or non-public and provide accessors if needed.(àËŒºıÿÿÿÿ8–ï›Ş.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(°’¡Â8­è§Ş.
+Q
+java:S1444'"/Make this "public static CHEAP_CAR" field final(ìƒ’Íûÿÿÿÿ8–ï›Ş.
+w
+java:S1104'"UMake CHEAP_CAR a static final constant or non-public and provide accessors if needed.(ìƒ’Íûÿÿÿÿ8–ï›Ş.
+z
+java:S3008&"XRename this field "LUXURIOUS_CAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ’ıÿÿÿÿ8–ï›Ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÂäÿüÿÿÿÿ8™‘¥Ş.
+v
+java:S3008'"TRename this field "CHEAP_CAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìƒ’Íûÿÿÿÿ8–ï›Ş.
+W
+java:S1161":Add the "@Override" annotation above this method signature(¶†îÙ8™‘¥Ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(è­®„8­§Ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇçıŒ8•«ŸŞ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ãôª
+W
+java:S1118$":Add a private constructor to hide the implicit public one.(Ğ¬†ÿ8–ï›Ş.
+T
+java:S1444("2Make this "public static FERRARI_NAME" field final(ÜÑøìùÿÿÿÿ8–ï›Ş.
+y
+java:S3008("WRename this field "FERRARI_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÑøìùÿÿÿÿ8–ï›Ş.
+{
+java:S1104&"YMake LUXURIOUS_CAR a static final constant or non-public and provide accessors if needed.(Õ’ıÿÿÿÿ8–ï›Ş.
+w
+java:S3008)"URename this field "LANOS_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àËŒºıÿÿÿÿ8–ï›Ş.
