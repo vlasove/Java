@@ -15,3 +15,11 @@ G
 src/task7/Solution.java,8\c\8cb9a76534857884fae31deb4fb13c287c993298
 G
 src/task6/Solution.java,9\1\91dad60ec21afbe7fbbf539eb9af3f80436fd7f9
+H
+src/task11/Solution.java,c\0\c099ae19ab60b08514151ae3649564d049fd40c5
+G
+src/task8/Solution.java,b\b\bbaf29393de3596f0fe5b1db282481e6029c67b1
+G
+src/task9/Solution.java,0\b\0b42826e128440fd92ef940f52a477251bb50b80
+H
+src/task10/Solution.java,5\c\5c8f50ddb6a74487b9f2696ff2cf730237da9964

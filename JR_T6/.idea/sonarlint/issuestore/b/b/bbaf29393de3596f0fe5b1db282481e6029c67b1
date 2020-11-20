@@ -1,0 +1,23 @@
+
+j
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(£ÅÃ8àô¸‘Ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÎÖæ8àô¸‘Ş.
+i
+java:S1104"MMake B a static final constant or non-public and provide accessors if needed.(„Éí
+8àô¸‘Ş.
+{
+java:S1845""^Rename method "min" to prevent any misunderstanding/clash with field "MIN" defined on line 28.(Üïæ‹8àô¸‘Ş.
+C
+java:S1444"'Make this "public static B" field final(„Éí
+8àô¸‘Ş.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8üëÉ‘Ş.
+h
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éí
+8àô¸‘Ş.
+i
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÅÃ8àô¸‘Ş.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘»óç
+D
+java:S1444"'Make this "public static A" field final(£ÅÃ8àô¸‘Ş.
+E	java:S108")Either remove or fill this block of code.(”ı¾8¯À‘Ş.

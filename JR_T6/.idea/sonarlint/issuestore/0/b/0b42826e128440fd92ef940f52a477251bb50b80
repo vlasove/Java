@@ -1,0 +1,31 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ×ã8ûÄé‘Ş.
+u	java:S116"TRename this field "DoubleVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‚¬šıÿÿÿÿ8øúì‘Ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–ˆ¨Èşÿÿÿÿ8ûÄé‘Ş.
+u	java:S116
+"TRename this field "StringVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´É’¼şÿÿÿÿ8øúì‘Ş.
+w
+java:S1104"UMake doubleVar a static final constant or non-public and provide accessors if needed.(·˜çªÿÿÿÿÿ8—œØ‘Ş.
+Š
+java:S1845"hRename field "DoubleVar" to prevent any misunderstanding/clash with field "doubleVar" defined on line 5.(ÿ‚¬šıÿÿÿÿ8—œØ‘Ş.
+x
+java:S1104"VMake booleanVar a static final constant or non-public and provide accessors if needed.(ğ™“æıÿÿÿÿ8—œØ‘Ş.
+r
+java:S1104"UMake ObjectVar a static final constant or non-public and provide accessors if needed.(–ğıç8—œØ‘Ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ô¼‹±úÿÿÿÿ8ûÄé‘Ş.
+p	java:S116"TRename this field "ObjectVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ğıç8øúì‘Ş.
+z
+java:S1104	"XMake ExceptionVar a static final constant or non-public and provide accessors if needed.(ì„ùíûÿÿÿÿ8—œØ‘Ş.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÚíƒ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹„ÍÀ8ûÄé‘Ş.
+t
+java:S1104"RMake intVar a static final constant or non-public and provide accessors if needed.(Ğìè•şÿÿÿÿ8—œØ‘Ş.
+x	java:S116	"WRename this field "ExceptionVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì„ùíûÿÿÿÿ8øúì‘Ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éùğŒüÿÿÿÿ8ûÄé‘Ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÄäµ8ûÄé‘Ş.
+w
+java:S1104"UMake DoubleVar a static final constant or non-public and provide accessors if needed.(ÿ‚¬šıÿÿÿÿ8—œØ‘Ş.
+w
+java:S1104
+"UMake StringVar a static final constant or non-public and provide accessors if needed.(´É’¼şÿÿÿÿ8—œØ‘Ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¬çäüÿÿÿÿ8ûÄé‘Ş.

@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.( éÿÔ8×ûú‘Ş.
+I
+java:S1444"'Make this "public static B" field final(áÖÀ§üÿÿÿÿ8×ûú‘Ş.
+o
+java:S1104"MMake B a static final constant or non-public and provide accessors if needed.(áÖÀ§üÿÿÿÿ8×ûú‘Ş.
+j
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(„¾á 8Š¥ú‘Ş.
+g	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ç¢ƒ’Ş.
+D
+java:S1444"'Make this "public static A" field final(„¾á 8Š¥ú‘Ş.
+i
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾á 8Š¥ú‘Ş.
+n
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÖÀ§üÿÿÿÿ8×ûú‘Ş.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı»øô

@@ -1,20 +1,29 @@
 
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÄœøùÿÿÿÿ8ÏåİŒŞ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¡Íë¤8–ßÜŒŞ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¹í¦ü8óĞÛŒŞ.
 o
-java:S1104"RMake parent a static final constant or non-public and provide accessors if needed.(©ä€«8å‚ÅŒŞ.
-^
-java:S1854"<Remove this useless assignment to local variable "myParent".(Àšÿîÿÿÿÿÿ8ÈîéŒŞ.
+java:S1104"RMake parent a static final constant or non-public and provide accessors if needed.(©ä€«8å‚ÅŒŞ.
+B
+java:S3010" Remove this assignment of "age".(•ëƒ®ÿÿÿÿÿ8ì®‚‘Ş.
 O
-java:S1481"-Remove this unused "myParent" local variable.(Àšÿîÿÿÿÿÿ8ÈîéŒŞ.
-D
-java:S1068"'Remove this unused "val" private field.(ö·¶8±¸àŒŞ.
-\
-java:S1161 ":Add the "@Override" annotation above this method signature(üº‚ñùÿÿÿÿ8ë¯ÉŒŞ.
+java:S1481"-Remove this unused "myParent" local variable.(Àšÿîÿÿÿÿÿ8®™‰‘Ş.
+K
+java:S1444")Make this "public static age" field final(àòÑ ùÿÿÿÿ8ì®‚‘Ş.
 F
-java:S1444")Make this "public static age" field final(óË¾¦8óÈöŞ.
-=
-java:S3010" Remove this assignment of "age".(ÛÒŠ8¹´÷Ş.
+java:S1444")Make this "public static age" field final(×íÙ¼8óÈöŞ.
+q
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(àòÑ ùÿÿÿÿ8ì®‚‘Ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸ó‚ıÿÿÿÿ8ï„ˆ‘Ş.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¡Íë¤8–ßÜŒŞ.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÄœøùÿÿÿÿ8ÏåİŒŞ.
+D
+java:S1068	"'Remove this unused "val" private field.(ö·¶8±¸àŒŞ.
 l
-java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(óË¾¦8óÈöŞ.
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×íÙ¼8óÈöŞ.
+:
+java:S1118"Hide this public constructor.(Ê‡ëœ8íÅ‘Ş.
+=
+java:S3010" Remove this assignment of "age".(ÛÒŠ8¹´÷Ş.
+^
+java:S1854"<Remove this useless assignment to local variable "myParent".(Àšÿîÿÿÿÿÿ8®™‰‘Ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹í¦ü8óĞÛŒŞ.
+\
+java:S1161&":Add the "@Override" annotation above this method signature(üº‚ñùÿÿÿÿ8ë¯ÉŒŞ.
