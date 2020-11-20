@@ -17,7 +17,7 @@ public class Solution {
     }
 
     abstract static class Book {
-        private String author;
+        private final String author;
 
         public Book(String author) {
             this.author = author;
@@ -50,7 +50,7 @@ public class Solution {
 
     public static class MarkTwainBook extends  Book {
         //private String author = "Mark Twain";
-        private String title;
+        private final String title;
 
         public MarkTwainBook(String title) {
             super("Mark Twain");
@@ -70,7 +70,7 @@ public class Solution {
     }
 
     public static class AgathaChristieBook extends Book {
-        private String title;
+        private final String title;
 
         public AgathaChristieBook(String title){
             super("Agatha Christie");

@@ -6,7 +6,7 @@ class Cat{
     }
 }
 public class Solution {
-    private static String val = "val";
+    private static final String val = "val";
 
     public static void main(String[] args) {
         Tiger parent = new Tiger();

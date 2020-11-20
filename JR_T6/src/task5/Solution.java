@@ -9,12 +9,12 @@ import java.util.List;
 */
 
 public class Solution {
-    public static interface LivingPart {
+    public interface LivingPart {
         Object containsBones();
     }
 
     public static class BodyPart implements LivingPart {
-        private String name;
+        private final String name;
 
         public BodyPart(String name) {
             this.name = name;
@@ -35,7 +35,7 @@ public class Solution {
     }
 
     public static class Finger extends BodyPart {
-        private boolean isArtificial;
+        private final boolean isArtificial;
 
         public Finger(String name, boolean isArtificial) {
             super(name);
