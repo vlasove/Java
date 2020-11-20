@@ -1,0 +1,22 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»±½îüÿÿÿÿ
+O
+java:S1874"-Remove this use of "Short"; it is deprecated.(¤Úýáýÿÿÿÿ8‰â‰®Þ.
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(­æ¨ðûÿÿÿÿ8‰â‰®Þ.
+I
+java:S1874"-Remove this use of "Short"; it is deprecated.(Ž¯–n8‰â‰®Þ.
+ 
+java:S1158"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(áåµ¹þÿÿÿÿ8‰â‰®Þ.
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(“¯èÈøÿÿÿÿ8‰â‰®Þ.
+O
+java:S1874"-Remove this use of "Short"; it is deprecated.(ßŠ»’úÿÿÿÿ8‰â‰®Þ.
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(áåµ¹þÿÿÿÿ8‰â‰®Þ.
+A
+java:S2131"Use "Integer.toString" instead.(áåµ¹þÿÿÿÿ8‰â‰®Þ.
+˜
+java:S1158"|Call the static method Short.toString(...) instead of instantiating a temporary object to perform this to string conversion.(Ž¯–n8‰â‰®Þ.
+9
+java:S2131"Use "Short.toString" instead.(Ž¯–n8‰â‰®Þ.

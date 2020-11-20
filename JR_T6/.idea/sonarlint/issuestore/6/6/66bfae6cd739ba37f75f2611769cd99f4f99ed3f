@@ -1,6 +1,6 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(„Ò‹üùÿÿÿÿ8ô‚´Ş.
-X	java:S1254"<This block of commented-out lines of code should be removed.(¬¼¾8¹ÒÀŞ.
 u
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂöúX8ô‚´Ş.
+X	java:S1254"<This block of commented-out lines of code should be removed.(¬¼¾8¹ÒÀŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„Ò‹üùÿÿÿÿ8ô‚´Ş.
 n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³„şJ

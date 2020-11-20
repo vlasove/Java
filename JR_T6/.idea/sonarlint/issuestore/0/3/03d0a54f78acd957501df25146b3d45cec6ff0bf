@@ -1,0 +1,11 @@
+
+>
+java:S2129"!Remove this "Integer" constructor(Á„¶÷8«â¬Ş.
+L
+java:S1874"/Remove this use of "Integer"; it is deprecated.(Á„¶÷8«â¬Ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥ùù‘ùÿÿÿÿ8ˆËÜ¬Ş.
+›
+java:S1158"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(Á„¶÷8«â¬Ş.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÆ¹
+<
+java:S2131"Use "Integer.toString" instead.(Á„¶÷8«â¬Ş.

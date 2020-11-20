@@ -1,0 +1,21 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÑò±8²™Š¯Ş.
+j
+java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(ù÷¨µ8²™Š¯Ş.
+R
+java:S1854!"5Remove this useless assignment to local variable "s".(ş¬ãß8²™Š¯Ş.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÎıûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œ™šÊşÿÿÿÿ8²™Š¯Ş.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÉÇ¨¿8²™Š¯Ş.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ıƒ´³8²™Š¯Ş.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ç³Ïšıÿÿÿÿ8²™Š¯Ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÓ¯ûÿÿÿÿ8²™Š¯Ş.
+C
+java:S1481!"&Remove this unused "s" local variable.(ş¬ãß8²™Š¯Ş.
+{
+java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8²™Š¯Ş.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(¢Ì¦ô8²™Š¯Ş.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(™‰‡¼8²™Š¯Ş.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(…Ó³½8²™Š¯Ş.

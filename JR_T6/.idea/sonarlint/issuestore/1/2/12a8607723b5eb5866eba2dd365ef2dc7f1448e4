@@ -1,11 +1,11 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÓ¿Î
-Z	java:S106F"9Replace this use of System.out or System.err by a logger.(şåäüÿÿÿÿ8®øŞ.
-u
-java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş­Ó|8®øŞ.
 U	java:S106P"9Replace this use of System.out or System.err by a logger.(¹›Û§8®øŞ.
-T	java:S106="9Replace this use of System.out or System.err by a logger.(‡¦·Q8®øŞ.
-u
-java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ§ä38®øŞ.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(şåäüÿÿÿÿ8®øŞ.
 \
 java:S1161-":Add the "@Override" annotation above this method signature(õÌ¢›ùÿÿÿÿ8Ù¨–Ş.
+u
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ§ä38®øŞ.
+u
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş­Ó|8®øŞ.
+T	java:S106="9Replace this use of System.out or System.err by a logger.(‡¦·Q8®øŞ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÓ¿Î
