@@ -5,7 +5,7 @@ public class Solution {
 
     public static void main(String[] args) throws InterruptedException {
         Clock clock = new Clock("Лондон", 23, 59, 57);
-        Thread.sleep(4000);
+        Thread.sleep(9000);
         isStopped = true;
         Thread.sleep(1000);
     }
@@ -41,6 +41,29 @@ public class Solution {
             } else {
                 System.out.println(String.format("В г. %s сейчас %d:%d:%d!", cityName, hours, minutes, seconds));
             }
+            Thread.sleep(1000);
+            int amount_seconds = hours * 60 * 60 + minutes*60 + seconds;
+            amount_seconds++;
+            int new_hours = amount_seconds / (60*60);
+            int new_minutes = (amount_seconds - new_hours*60*60 )/60;
+            int new_seconds = (amount_seconds - new_hours*60*60 - new_minutes*60);
+
+            if(new_seconds >= 60){
+                new_minutes++;
+                new_seconds = 0;
+            }
+            if(new_minutes >= 60){
+                new_hours++;
+                new_minutes = 0;
+            }
+            if(new_hours >= 24){
+                new_hours =0;
+            }
+
+            hours = new_hours;
+            minutes = new_minutes;
+            seconds = new_seconds;
+
         }
     }
 }
