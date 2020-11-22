@@ -1,0 +1,23 @@
+
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8õÚšçİ.
+R
+java:S1444"0Make this "public static exceptions" field final(ø¡èÿÿÿÿÿ8õÚšçİ.
+?
+java:S2386"Make this member "protected".(ø¡èÿÿÿÿÿ8õÚšçİ.
+^
+java:S2184"ACast one of the operands of this division operation to a "float".(‰£Ò¥8õÚšçİ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áİ¹ùÿÿÿÿ
+`
+java:S3518"CMake sure this expression can't be zero before doing this division.(‰£Ò¥8õÚšçİ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¡èÿÿÿÿÿ8õÚšçİ.
+C
+java:S1481"&Remove this unused "i" local variable.(‰£Ò¥8õÚšçİ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú§ÈÖúÿÿÿÿ8õÚšçİ.
+]
+java:S1128";Remove this unused import 'java.io.InterruptedIOException'.(˜ûĞşÿÿÿÿ8õÚšçİ.
+x
+java:S1104"VMake exceptions a static final constant or non-public and provide accessors if needed.(ø¡èÿÿÿÿÿ8õÚšçİ.
+R
+java:S1854"5Remove this useless assignment to local variable "i".(‰£Ò¥8õÚšçİ.

@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö™¸ç
+g
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(‹ü›õøÿÿÿÿ8éÍÊ³Ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ª—¥8¬ïç³Ş.
+W
+java:S1610	"5Convert the abstract class "Money" into an interface.(‹ü›õøÿÿÿÿ8éÍÊ³Ş.

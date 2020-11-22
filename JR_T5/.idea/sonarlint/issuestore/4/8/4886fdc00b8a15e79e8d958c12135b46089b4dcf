@@ -1,0 +1,5 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8æ…ÌçÝ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…÷¨Ž
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÀÊÔ8™¼ÍçÝ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ü„ê!8Õ€ÔçÝ.

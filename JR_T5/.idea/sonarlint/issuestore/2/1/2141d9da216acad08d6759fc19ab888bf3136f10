@@ -1,0 +1,21 @@
+
+A
+java:S2129"Remove this "Float" constructor(½–Éúúÿÿÿÿ8ÇÄƒçİ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ı§Ìşÿÿÿÿ8òéöæİ.
+J
+java:S1874".Remove this use of "Double"; it is deprecated.(¨ï¦	8ÇÄƒçİ.
+=
+java:S2129" Remove this "Double" constructor(şüŠô8ÇÄƒçİ.
+O
+java:S1874"-Remove this use of "Float"; it is deprecated.(½–Éúúÿÿÿÿ8ÇÄƒçİ.
+c
+java:S2184"ACast one of the operands of this division operation to a "float".(½–Éúúÿÿÿÿ8ÇÄƒçİ.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¤æ
+K
+java:S1874".Remove this use of "Double"; it is deprecated.(şüŠô8ÇÄƒçİ.
+K
+java:S1874".Remove this use of "Double"; it is deprecated.(Ôã‘Ì8ÇÄƒçİ.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(©áÊìüÿÿÿÿ8®ÿ‹çİ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ŸÏÍè8àŠ†çİ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(¬«™Â8Ãˆ‹çİ.
