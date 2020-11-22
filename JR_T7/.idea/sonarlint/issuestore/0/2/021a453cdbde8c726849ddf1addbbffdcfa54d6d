@@ -1,0 +1,21 @@
+
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ä«Åüÿÿÿÿ8‘ÀĞãŞ.
+r
+java:S1104"UMake isStopped a static final constant or non-public and provide accessors if needed.(ï¨Ò²8àî¬ãŞ.
+c
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8àî¬ãŞ.
+L
+java:S1481"*Remove this unused "clock" local variable.(Ì°œ¹üÿÿÿÿ8àî¬ãŞ.
+r	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¥Øúÿÿÿÿ8¤§ËãŞ.
+l	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùí¸38‘ÀĞãŞ.
+[
+java:S1854"9Remove this useless assignment to local variable "clock".(Ì°œ¹üÿÿÿÿ8àî¬ãŞ.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¼ÿ€ÿÿÿÿÿ8‘ÀĞãŞ.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Õéúüûÿÿÿÿ8àî¬ãŞ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹”üÛùÿÿÿÿ
+L
+java:S1444"/Make this "public static isStopped" field final(ï¨Ò²8àî¬ãŞ.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ì¯ì8àî¬ãŞ.
+E	java:S108 ")Either remove or fill this block of code.(ä ¹€8àî¬ãŞ.
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8àî¬ãŞ.

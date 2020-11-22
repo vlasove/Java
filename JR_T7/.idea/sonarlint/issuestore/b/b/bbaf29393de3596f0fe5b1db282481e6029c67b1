@@ -1,0 +1,18 @@
+
+^
+java:S3078!"AUse an "AtomicInteger" for this field; its operations are atomic.(”­‘Ώ8‡ό­βή.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘»ση
+|
+java:S1104"_Make utterancesPerSpeech a static final constant or non-public and provide accessors if needed.(‡γ‰8‡ό­βή.
+y
+java:S1104"\Make totalSpeechCount a static final constant or non-public and provide accessors if needed.(Η΅««8‡ό­βή.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Κ„―π8‡ό­βή.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ΌώΗ—ϋÿÿÿÿ8‡ό­βή.
+S
+java:S1444"6Make this "public static totalSpeechCount" field final(Η΅««8‡ό­βή.
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ύώ8‡ό­βή.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶νΚΊ8‡ό­βή.
+E	java:S108")Either remove or fill this block of code.(Μ¬ΊΣ8¥½βή.
+V
+java:S1444"9Make this "public static utterancesPerSpeech" field final(‡γ‰8‡ό­βή.

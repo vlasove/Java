@@ -1,0 +1,9 @@
+
+E	java:S108")Either remove or fill this block of code.(ŒğçÉ8³Ş‡âŞ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈĞÙØùÿÿÿÿ
+9
+java:S1643="Use a StringBuilder instead.(§¨Œ8³Ş‡âŞ.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(¿÷¼²8³Ş‡âŞ.
+W
+java:S1161:":Add the "@Override" annotation above this method signature(“–ış8³Ş‡âŞ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¨°‚8ûÉâŞ.
