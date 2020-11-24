@@ -3,7 +3,7 @@ W
 java:S1161":Add the "@Override" annotation above this method signature(“–ış8¢‡ÅûŞ.
 c
 java:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¢‡ÅûŞ.
-U	java:S106'"9Replace this use of System.out or System.err by a logger.(–æÒø8¢‡ÅûŞ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÆ¹
 n
 java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8¢‡ÅûŞ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(–æÒø8¢‡ÅûŞ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÆ¹

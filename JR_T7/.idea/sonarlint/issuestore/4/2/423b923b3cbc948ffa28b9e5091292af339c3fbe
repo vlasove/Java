@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÑ›Ôÿÿÿÿÿ
+O
+java:S1444"-Make this "public static handler" field final(ý©—‚ýÿÿÿÿ8½î‚Òß.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(þ¥¼–8½î‚Òß.
+u
+java:S1104"SMake handler a static final constant or non-public and provide accessors if needed.(ý©—‚ýÿÿÿÿ8½î‚Òß.
+?
+java:S2438	""commonThread" is a "Thread".(¼öÒ‚øÿÿÿÿ8½î‚Òß.
+:
+java:S2438
+""commonThread" is a "Thread".(Ê“„×8½î‚Òß.
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8½î‚Òß.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8½î‚Òß.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ìÂÆž8½î‚Òß.

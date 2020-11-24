@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÎıûÿÿÿÿ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(á¡©øÿÿÿÿ8Á€©Ñß.
+Š
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ü²âª8øµÑß.

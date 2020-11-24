@@ -39,3 +39,23 @@ H
 src/task17/Solution.java,8\2\82ba67a72eb61cc73b0f1da65ed56ef4729b9c90
 H
 src/task18/Solution.java,a\f\af7e4275655ab28bdea0d64a482ea9d1c4a0df0c
+H
+src/task19/Solution.java,d\c\dc8ceea36223138361998617279b7376b6c48215
+R
+"src/task19/ImageReaderFactory.java,a\1\a1ba68c16434b94d08ebb7e5a02d074f8ad68ffd
+Q
+!src/task19/common/ImageTypes.java,3\4\341ec604ffa12aa819c7f3c7a683810740bf38ae
+P
+ src/task19/common/JpgReader.java,9\d\9d2269f89fc705f35f17b563e0782356d707ce11
+P
+ src/task19/common/PngReader.java,8\2\82357e0918bee09527a7ea319d735c9adfbdc56b
+P
+ src/task19/common/BmpReader.java,c\2\c2ddccfa563fd0c77e7fb4636c3d923e2d4accda
+R
+"src/task19/common/ImageReader.java,6\9\69a67f5971dd0bc61a9c3208ce12301e45f26218
+G
+src/task20/Message.java,8\5\85841574cf5ca0e5c4015575f49855611b9f105f
+H
+src/task20/Solution.java,e\3\e3e0dc5524037699b7a4eaa91ed1c07f77facae3
+H
+src/task21/Solution.java,4\2\423b923b3cbc948ffa28b9e5091292af339c3fbe

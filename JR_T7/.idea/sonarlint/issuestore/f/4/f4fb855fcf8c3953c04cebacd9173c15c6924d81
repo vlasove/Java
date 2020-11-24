@@ -1,19 +1,19 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â—Ãúÿÿÿÿ
-x
-java:S1104"VMake numSeconds a static final constant or non-public and provide accessors if needed.(ÕÆõ™øÿÿÿÿ8Î‡ØûŞ.
-W
-java:S1161":Add the "@Override" annotation above this method signature(“–ış8Î‡ØûŞ.
-]	java:S125"<This block of commented-out lines of code should be removed.(©†Şøÿÿÿÿ8°ş™üŞ.
-R
-java:S1444"0Make this "public static numSeconds" field final(ÕÆõ™øÿÿÿÿ8Î‡ØûŞ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(·ü·<8šß©üŞ.
+X	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ8šß©üŞ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(®‹¹©úÿÿÿÿ8ñ›ƒüŞ.
-S
-java:S2696"6Make the enclosing method "static" or remove this set.(ÏÁ8ñ›ƒüŞ.
 ^
 java:S3078"AUse an "AtomicInteger" for this field; its operations are atomic.(ÏÁ8ñ›ƒüŞ.
-X	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ8šß©üŞ.
 c
 java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÄÂüŞ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(·ü·<8šß©üŞ.
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8Î‡ØûŞ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â—Ãúÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(©†Şøÿÿÿÿ8°ş™üŞ.
+x
+java:S1104"VMake numSeconds a static final constant or non-public and provide accessors if needed.(ÕÆõ™øÿÿÿÿ8Î‡ØûŞ.
 Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÚÔ¯ûÿÿÿÿ8æÜ«üŞ.
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(ÏÁ8ñ›ƒüŞ.
+R
+java:S1444"0Make this "public static numSeconds" field final(ÕÆõ™øÿÿÿÿ8Î‡ØûŞ.
