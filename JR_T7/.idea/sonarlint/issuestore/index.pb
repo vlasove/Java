@@ -25,3 +25,17 @@ H
 src/task11/Solution.java,c\0\c099ae19ab60b08514151ae3649564d049fd40c5
 H
 src/task12/Solution.java,0\2\021a453cdbde8c726849ddf1addbbffdcfa54d6d
+H
+src/task13/Solution.java,e\b\ebe70afc4d688bfe70e44be3938c0c9ab99608f4
+F
+src/lec2/Solution.java,d\2\d25cfda265bb5f111e74e2f44c46e7c79b166d54
+H
+src/task14/Solution.java,0\3\03d0a54f78acd957501df25146b3d45cec6ff0bf
+H
+src/task15/Solution.java,f\4\f4fb855fcf8c3953c04cebacd9173c15c6924d81
+H
+src/task16/Solution.java,7\5\75bb80bf0e938af9c3f1f6dbf1400e95cb058b49
+H
+src/task17/Solution.java,8\2\82ba67a72eb61cc73b0f1da65ed56ef4729b9c90
+H
+src/task18/Solution.java,a\f\af7e4275655ab28bdea0d64a482ea9d1c4a0df0c

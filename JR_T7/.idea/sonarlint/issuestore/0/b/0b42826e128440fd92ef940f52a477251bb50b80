@@ -1,25 +1,25 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(úÙƒùÿÿÿÿ8öæÂâŞ.
-H
-java:S1481"+Remove this unused "mouse2" local variable.(®úˆÍ8öæÂâŞ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÚíƒ
-;
-java:S3398"Move this method into "Mouse".(¯°¯8öæÂâŞ.
-c
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8öæÂâŞ.
-E	java:S108")Either remove or fill this block of code.(ä ¹€8öæÂâŞ.
-M
-java:S1481"+Remove this unused "mouse1" local variable.(¬½£°ûÿÿÿÿ8öæÂâŞ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(€­ˆÎùÿÿÿÿ8öæÂâŞ.
 \
 java:S1854":Remove this useless assignment to local variable "mouse1".(¬½£°ûÿÿÿÿ8öæÂâŞ.
 W
-java:S1854":Remove this useless assignment to local variable "mouse2".(®úˆÍ8öæÂâŞ.
-W
 java:S1161":Add the "@Override" annotation above this method signature(“–ış8öæÂâŞ.
-V
-java:S1854"9Remove this useless assignment to local variable "alpha".(»¯ÊŸ8ÈÃâŞ.
-“
-java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ÈÃâŞ.
+;
+java:S3398"Move this method into "Mouse".(¯°¯8öæÂâŞ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÚíƒ
 G
 java:S1481"*Remove this unused "alpha" local variable.(»¯ÊŸ8ÈÃâŞ.
+M
+java:S1481"+Remove this unused "mouse1" local variable.(¬½£°ûÿÿÿÿ8öæÂâŞ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8öæÂâŞ.
+V
+java:S1854"9Remove this useless assignment to local variable "alpha".(»¯ÊŸ8ÈÃâŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úÙƒùÿÿÿÿ8öæÂâŞ.
+W
+java:S1854":Remove this useless assignment to local variable "mouse2".(®úˆÍ8öæÂâŞ.
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ÈÃâŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€­ˆÎùÿÿÿÿ8öæÂâŞ.
+E	java:S108")Either remove or fill this block of code.(ä ¹€8öæÂâŞ.
+H
+java:S1481"+Remove this unused "mouse2" local variable.(®úˆÍ8öæÂâŞ.

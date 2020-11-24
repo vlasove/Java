@@ -1,26 +1,26 @@
 
-E	java:S108 ")Either remove or fill this block of code.(ä ¹€8êºÑâŞ.
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78êºÑâŞ.
 K
 java:S1481")Remove this unused "cat1" local variable.( ÷˜Ğÿÿÿÿÿ8êºÑâŞ.
-c
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8©ÕâŞ.
-Z
-java:S1854"8Remove this useless assignment to local variable "cat1".( ÷˜Ğÿÿÿÿÿ8êºÑâŞ.
-c
-java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8êºÑâŞ.
-W
-java:S1161":Add the "@Override" annotation above this method signature(“–ış8êºÑâŞ.
-W
-java:S11612":Add the "@Override" annotation above this method signature(“–ış8êºÑâŞ.
 Z
 java:S1854"8Remove this useless assignment to local variable "cat2".(Óú‹¢ùÿÿÿÿ8êºÑâŞ.
 T	java:S106"9Replace this use of System.out or System.err by a logger.(á˜ÈN8êºÑâŞ.
-“
-java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78êºÑâŞ.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ü“ÏÁüÿÿÿÿ8êºÑâŞ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı»øô
-K
-java:S1481")Remove this unused "cat2" local variable.(Óú‹¢ùÿÿÿÿ8êºÑâŞ.
+Z
+java:S1854"8Remove this useless assignment to local variable "cat1".( ÷˜Ğÿÿÿÿÿ8êºÑâŞ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8©ÕâŞ.
+E	java:S108 ")Either remove or fill this block of code.(ä ¹€8êºÑâŞ.
 A
 java:S3398	"Move this method into "Kitten".(£Ø©ûÿÿÿÿ8êºÑâŞ.
+c
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8êºÑâŞ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ü“ÏÁüÿÿÿÿ8êºÑâŞ.
+W
+java:S11612":Add the "@Override" annotation above this method signature(“–ış8êºÑâŞ.
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8êºÑâŞ.
 U	java:S1063"9Replace this use of System.out or System.err by a logger.(Î¿¦«8êºÑâŞ.
+K
+java:S1481")Remove this unused "cat2" local variable.(Óú‹¢ùÿÿÿÿ8êºÑâŞ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı»øô
