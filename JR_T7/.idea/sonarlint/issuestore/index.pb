@@ -69,3 +69,19 @@ H
 src/task24/Solution.java,6\d\6ddb83a6b62370c1104ed5dd9c332aa0d392c048
 H
 src/task26/Solution.java,e\3\e3f303b63ed3b08a724757169df03307d74eee80
+H
+src/task27/Solution.java,1\0\1043c1af834c08347f6369a43cd020143d6dc721
+H
+src/task28/Solution.java,4\6\46e787a9176ad12d982db4f6354306d190d4816d
+H
+src/task29/Solution.java,5\2\523d0c0fc71f3ba971d83bed49d18759aa9567c1
+=
+src/first.txt,6\e\6ea79db326578d3aa668043707437f1d0d327b02
+>
+src/second.txt,f\6\f6f2d62cac04723f972a9e501565256ffb166482
+9
+	first.txt,0\b\0bedc6131b7dc499f97038dcde23916eba0ccf84
+D
+src/task30/first.txt,9\1\91c1d64b9bb276db1939c32a31a17f64373a8f46
+H
+src/task30/Solution.java,6\0\60becbb39dfd97df6ed5781707a3b651b621855f

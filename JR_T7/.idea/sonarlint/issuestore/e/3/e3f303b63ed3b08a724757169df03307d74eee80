@@ -1,14 +1,14 @@
 
-o
-java:S1104"RMake number a static final constant or non-public and provide accessors if needed.(χ½³8‰•παί.
-E	java:S108.")Either remove or fill this block of code.(δ Ή€8‰•παί.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½›ζ›όÿÿÿÿ
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ϋγ‡ώÿÿÿÿ8‰•παί.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ϋγ‡ώÿÿÿÿ8υΝ€βί.
 h
 java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ψτΤΧϋÿÿÿÿ8υΝ€βί.
-c
-java:S2142."FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8‰•παί.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ϋγ‡ώÿÿÿÿ8υΝ€βί.
+o
+java:S1104"RMake number a static final constant or non-public and provide accessors if needed.(χ½³8‰•παί.
 J	java:S108")Either remove or fill this block of code.(ψτΤΧϋÿÿÿÿ8υΝ€βί.
 I
 java:S1444",Make this "public static number" field final(χ½³8‰•παί.
+c
+java:S2142."FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8‰•παί.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½›ζ›όÿÿÿÿ
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ϋγ‡ώÿÿÿÿ8‰•παί.
+E	java:S108.")Either remove or fill this block of code.(δ Ή€8‰•παί.

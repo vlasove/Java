@@ -1,0 +1,17 @@
+
+v
+java:S1104
+"YMake firstFileName a static final constant or non-public and provide accessors if needed.(’¿‘í8ªßåøß.
+W
+java:S11616":Add the "@Override" annotation above this method signature(“–ış8·Ï»ùß.
+n
+java:S2095;"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.( Ÿ¹Öÿÿÿÿÿ8£÷¾ùß.
+w
+java:S1104"ZMake secondFileName a static final constant or non-public and provide accessors if needed.(ë—ÎŠ8ªßåøß.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(½—‰Õ8ªßåøß.
+Q
+java:S1444"4Make this "public static secondFileName" field final(ë—ÎŠ8ªßåøß.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿü«’ûÿÿÿÿ
+P
+java:S1444
+"3Make this "public static firstFileName" field final(’¿‘í8ªßåøß.
