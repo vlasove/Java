@@ -1,0 +1,12 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(äòÕ8¡»åáß.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¡»åáß.
+c
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¡»åáß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(á”¦¿ıÿÿÿÿ8¡»åáß.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢áº¿8¡»åáß.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ™Ğ
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¡»åáß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı™³Ûüÿÿÿÿ8¡»åáß.

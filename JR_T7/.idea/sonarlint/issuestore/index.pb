@@ -59,3 +59,13 @@ H
 src/task20/Solution.java,e\3\e3e0dc5524037699b7a4eaa91ed1c07f77facae3
 H
 src/task21/Solution.java,4\2\423b923b3cbc948ffa28b9e5091292af339c3fbe
+H
+src/task23/Solution.java,b\2\b2fa48f3f779720f00f65b9217b02f196a76a794
+H
+src/task22/Solution.java,7\7\775c8a4244a1755e80e0495b08431bc231e3c3f7
+H
+src/task25/Solution.java,b\f\bf4466ad6cadf0576084e423e1a397d0bc780f30
+H
+src/task24/Solution.java,6\d\6ddb83a6b62370c1104ed5dd9c332aa0d392c048
+H
+src/task26/Solution.java,e\3\e3f303b63ed3b08a724757169df03307d74eee80

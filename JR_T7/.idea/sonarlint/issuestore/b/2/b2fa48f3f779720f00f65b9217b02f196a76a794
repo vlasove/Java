@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö™¸ç
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êÆÛúşÿÿÿÿ8î¢»áß.
+^
+java:S3078"AUse an "AtomicInteger" for this field; its operations are atomic.(ÿ¾²±8›Â¢áß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êÆÛúşÿÿÿÿ8ç»ƒáß.

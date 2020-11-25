@@ -1,0 +1,15 @@
+
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8áµÚáß.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ¥‚«
+U
+java:S1197"8Move the array designator from the variable to the type.(Ìø’Ş8áµÚáß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è›èîûÿÿÿÿ8áµÚáß.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8áµÚáß.
+j
+java:S1104"MMake t a static final constant or non-public and provide accessors if needed.(Ïá¿Õ8áµÚáß.
+D
+java:S1444"'Make this "public static t" field final(Ïá¿Õ8áµÚáß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è›èîûÿÿÿÿ8áµÚáß.
+E	java:S108")Either remove or fill this block of code.(ä ¹€8áµÚáß.
