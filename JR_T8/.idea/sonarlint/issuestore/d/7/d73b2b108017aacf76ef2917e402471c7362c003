@@ -1,4 +1,30 @@
 
-]
-java:S2094"BRemove this empty class, write its code or make it an "interface".(æÌ†Ãşÿÿÿÿ
+C	java:S1318""Add a default case to this switch.(ÌÓğûÿÿÿÿ8ŸæÌá.
+S
+java:S1444"1Make this "public static formatterTo" field final(Š©¸ øÿÿÿÿ8Å²ŠËá.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(çæ¹¬úÿÿÿÿ8òûÌá.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(½İ¯è8½ —Ìá.
+y
+java:S1104"WMake formatterTo a static final constant or non-public and provide accessors if needed.(Š©¸ øÿÿÿÿ8Å²ŠËá.
+J
+java:S2885"(Make "formatterTo" an instance variable.(Š©¸ øÿÿÿÿ8Å²ŠËá.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ
+U
+java:S1444"3Make this "public static formatterFrom" field final(ı‘ä·øÿÿÿÿ8Å²ŠËá.
+w
+java:S1104"UMake allPeople a static final constant or non-public and provide accessors if needed.(×ÃØèøÿÿÿÿ8Å²ŠËá.
+L
+java:S2885"*Make "formatterFrom" an instance variable.(ı‘ä·øÿÿÿÿ8Å²ŠËá.
+Z
+java:S18547"8Remove this useless assignment to local variable "flag".(Ş¸ëğüÿÿÿÿ8©˜Ìá.
+K
+java:S14817")Remove this unused "flag" local variable.(Ş¸ëğüÿÿÿÿ8©˜Ìá.
+Q
+java:S1444"/Make this "public static allPeople" field final(×ÃØèøÿÿÿÿ8Å²ŠËá.
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(×ÃØèøÿÿÿÿ8³”Ëá.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ÃØèøÿÿÿÿ8Å²ŠËá.
+{
+java:S1104"YMake formatterFrom a static final constant or non-public and provide accessors if needed.(ı‘ä·øÿÿÿÿ8Å²ŠËá.
+]	java:S125i"<This block of commented-out lines of code should be removed.(üÿú¯øÿÿÿÿ8©˜Ìá.
