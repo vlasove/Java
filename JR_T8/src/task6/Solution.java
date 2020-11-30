@@ -10,25 +10,25 @@ public class Solution {
     int count;
 
     public Solution append(CharSequence s) {
-        synchronized (Solution.class) {
-            if (s == null) {
-                synchronized (this) {
-                    s = "null";
-                }
-            }
 
-            if (s instanceof String) {
-                synchronized (this) {
-                    return this.append((String) s);
-                }
-            }
+        if (s == null) {
 
-            if (s instanceof Solution) {
-                synchronized (this) {
-                    return this.appendThis((Solution) s);
-                }
-            }
+            s = "null";
+
         }
+
+        if (s instanceof String) {
+
+            return this.append((String) s);
+
+        }
+
+        if (s instanceof Solution) {
+
+            return this.appendThis((Solution) s);
+
+        }
+
         return this.append(s);
     }
 
