@@ -17,3 +17,7 @@ G
 src/task1/Solution.java,8\3\839b7f5602cc554efb825bbfc426e632baa0b39a
 E
 src/task1/Person.java,b\d\bdebfd5cd9dded035935aca935f6e12b9a6e62db
+K
+src/lec6/ThreadExample.java,b\5\b50e7693da64de92f1ab671275a55e402ab2833e
+G
+src/task2/Solution.java,d\7\d73b2b108017aacf76ef2917e402471c7362c003
