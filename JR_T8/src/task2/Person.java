@@ -1,7 +1,6 @@
 package task2;
 
-import task1.Sex;
-import task1.Solution;
+
 
 import java.util.Date;
 
@@ -51,7 +50,7 @@ public class Person {
     @Override
     public String toString() {
         if (sex == Sex.MALE){
-            return name + " " + "м " + task1.Solution.formatterTo.format(birthDate);
+            return name + " " + "м " + Solution.formatterTo.format(birthDate);
         } else {
             return name + " " + "ж " + Solution.formatterTo.format(birthDate);
         }
