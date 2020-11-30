@@ -1,10 +1,10 @@
 
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤­Óüøÿÿÿÿ8ÍŸ¹Ìá.
-g
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ê¶óºûÿÿÿÿ8ÍŸ¹Ìá.
 v
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´‘÷8ÍŸ¹Ìá.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤­Óüøÿÿÿÿ8ÍŸ¹Ìá.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ãôª
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ê¶óºûÿÿÿÿ8ÍŸ¹Ìá.
 v
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…˜îË8ÍŸ¹Ìá.
