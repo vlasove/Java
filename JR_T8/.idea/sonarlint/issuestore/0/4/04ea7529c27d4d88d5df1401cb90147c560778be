@@ -1,0 +1,8 @@
+
+b
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(‚ÈíÕ8ÇÃ÷Õá.
+v
+java:S1210,"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(»ü¤Ú8ÙóÕá.
+
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚ÈíÕ8ØúïÕá.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÓ¿Î

@@ -39,3 +39,9 @@ I
 src/task3/Restaurant.java,2\0\203867780c73d841803ca3b88d634a99f679e9b5
 E
 src/task3/Waiter.java,9\1\91334db257b87aaae1368e8afaa9148a13c1e96e
+G
+src/task4/Solution.java,6\6\66bfae6cd739ba37f75f2611769cd99f4f99ed3f
+D
+src/task5/Beach.java,0\4\04ea7529c27d4d88d5df1401cb90147c560778be
+G
+src/task6/Solution.java,9\1\91dad60ec21afbe7fbbf539eb9af3f80436fd7f9
