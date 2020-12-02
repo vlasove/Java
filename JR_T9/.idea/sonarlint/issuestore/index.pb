@@ -21,3 +21,21 @@ G
 src/lec11/Solution.java,b\9\b9cca565f7e621d0260b3710204466efd9837ac6
 G
 src/lec12/Solution.java,8\6\86da78254cb4159666f53b168b45cb0c8111571e
+P
+ src/lec13/AmigoOutputStream.java,b\1\b14d6c9e828c8804918a6968075e9eb3e4244758
+W
+'src/lec13/QuestionFileOutputStream.java,e\7\e7540c9d3d6e0a9db9d0449d3144b829d1bf26f0
+P
+ src/lec14/AmigoOutputStream.java,f\8\f8cf2de7ddbd3f48504d5999fd4178b1a872dcdd
+M
+src/lec15/TxtInputStream.java,c\6\c6ab66c1a964261d0ad02eb0ff13b1bf3b0b5041
+[
++src/lec15/UnsupportedFileNameException.java,d\5\d541cbde16df37734b24c5f8d1b1d85e633cde0f
+G
+src/task1/Solution.java,8\3\839b7f5602cc554efb825bbfc426e632baa0b39a
+G
+src/lec16/Solution.java,9\e\9ed61f81f0563c66236f364ff554ea062b2daa96
+8
+file.txt,5\4\5436437fa01a7d3e41d46741da54b451446774ca
+G
+src/task2/Solution.java,d\7\d73b2b108017aacf76ef2917e402471c7362c003
