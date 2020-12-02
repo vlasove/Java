@@ -19,3 +19,5 @@ G
 src/lec10/Solution.java,e\7\e75ae7fc81d96c005b1ac04f5554818f4f38c40c
 G
 src/lec11/Solution.java,b\9\b9cca565f7e621d0260b3710204466efd9837ac6
+G
+src/lec12/Solution.java,8\6\86da78254cb4159666f53b168b45cb0c8111571e

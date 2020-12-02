@@ -1,19 +1,19 @@
 
-v
-java:S1104"TMake fileName a static final constant or non-public and provide accessors if needed.(Ç×Åùıÿÿÿÿ8ê…òóá.
-P
-java:S1444".Make this "public static fileName" field final(Ç×Åùıÿÿÿÿ8ê…òóá.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ùúÈ¦ûÿÿÿÿ8‰ÆŒôá.
-:
-java:S2386"Make this member "protected".(«¾Šê8ê…òóá.
-V
-java:S4973#"9Use the "equals" method if value comparison was intended.(İò®ó8‰ÆŒôá.
-B
-java:S2129" Remove this "String" constructor(Ç×Åùıÿÿÿÿ8ê…òóá.
-J
-java:S1444"-Make this "public static counter" field final(«¾Šê8ê…òóá.
 p
 java:S1104"SMake counter a static final constant or non-public and provide accessors if needed.(«¾Šê8ê…òóá.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÓ·¸şÿÿÿÿ
 o
 java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ıÔêéüÿÿÿÿ8ìÎöóá.
+V
+java:S4973#"9Use the "equals" method if value comparison was intended.(İò®ó8‰ÆŒôá.
+:
+java:S2386"Make this member "protected".(«¾Šê8ê…òóá.
+P
+java:S1444".Make this "public static fileName" field final(Ç×Åùıÿÿÿÿ8ê…òóá.
+v
+java:S1104"TMake fileName a static final constant or non-public and provide accessors if needed.(Ç×Åùıÿÿÿÿ8ê…òóá.
+B
+java:S2129" Remove this "String" constructor(Ç×Åùıÿÿÿÿ8ê…òóá.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ùúÈ¦ûÿÿÿÿ8‰ÆŒôá.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÓ·¸şÿÿÿÿ
+J
+java:S1444"-Make this "public static counter" field final(«¾Šê8ê…òóá.

@@ -1,10 +1,10 @@
 
 k
 java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¸‹ˆÜ8²Æ¹şá.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ğù‹
-j
-java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(§ÕÃ½8²Æ¹şá.
-j
-java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Á±*8²Æ¹şá.
 Q
 java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ïÓÃÿá.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(§ÕÃ½8²Æ¹şá.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ğù‹
+j
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Á±*8²Æ¹şá.

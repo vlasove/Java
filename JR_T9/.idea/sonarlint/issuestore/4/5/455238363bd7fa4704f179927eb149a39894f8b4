@@ -1,11 +1,11 @@
 
 o
 java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ύΤκιόÿÿÿÿ8Ά”τα.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ξω–Δψÿÿÿÿ
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ωϊΘ¦ϋÿÿÿÿ8Ά”τα.
-=
-java:S2129" Remove this "String" constructor(Ϊ‰±δ8¥±΅τα.
 Y
 java:S1854"<Remove this useless assignment to local variable "fileName".(Ϊ‰±δ8¥±΅τα.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ωϊΘ¦ϋÿÿÿÿ8Ά”τα.
 [
 java:S4973("9Use the "equals" method if value comparison was intended.(·έ·ϊÿÿÿÿ8ώ¦•τα.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ξω–Δψÿÿÿÿ
+=
+java:S2129" Remove this "String" constructor(Ϊ‰±δ8¥±΅τα.
