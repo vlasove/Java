@@ -39,3 +39,5 @@ G
 file.txt,5\4\5436437fa01a7d3e41d46741da54b451446774ca
 G
 src/task2/Solution.java,d\7\d73b2b108017aacf76ef2917e402471c7362c003
+G
+src/task3/Solution.java,e\b\eb1fd54800016f602dc90bae9b1e9ce36374aefb
