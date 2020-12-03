@@ -9,18 +9,24 @@ import java.util.*;
 
 public class Solution {
     public static void main(String[] args) {
-        String fileName = args[0];
+        String fileName = "file.txt";
         BufferedReader reader = null;
-        String line = new String();
+        FileInputStream stream = null;
+        //String line = new String();
         String totalText = new String();
         //Считываем строку с текстом
         try{
-            //TODO: Сделать считывание по символам
-            reader = new BufferedReader(new FileReader(fileName));
-            while((line = reader.readLine()) != null){
-                totalText += line;
+            //TODO: Сделать считывание по символам +
+            stream = new FileInputStream(fileName);
+            while(stream.available() > 0){
+                totalText += String.valueOf((char)stream.read());
             }
-            reader.close();
+            stream.close();
+//            reader = new BufferedReader(new FileReader(fileName));
+//            while((line = reader.readLine()) != null){
+//                totalText += line;
+//            }
+//            reader.close();
         } catch (FileNotFoundException ffe){
             ffe.printStackTrace();
         } catch (IOException ioe){

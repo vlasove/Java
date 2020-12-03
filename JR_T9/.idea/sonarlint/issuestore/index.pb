@@ -47,3 +47,9 @@ G
 src/task4/Solution.java,6\6\66bfae6cd739ba37f75f2611769cd99f4f99ed3f
 G
 src/task6/Solution.java,9\1\91dad60ec21afbe7fbbf539eb9af3f80436fd7f9
+M
+src/tasks/task7/Solution.java,5\0\50b8e5ab59304bc9063ea5a13f521fa6ea31babb
+M
+src/tasks/task8/Solution.java,a\e\ae2c2b85de1525365e20804f2ab251409882b127
+M
+src/tasks/task9/Solution.java,b\6\b67b8ef6700a870b89d8bc323f38e492ca991636

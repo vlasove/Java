@@ -1,0 +1,28 @@
+
+=
+java:S2129
+" Remove this "String" constructor(Ñõ¬Ø8ÇèƒÆâ.
+e
+java:S2259!"HA "NullPointerException" could be thrown; "firstInput" is nullable here.(—â®8ãÆâ.
+l
+java:S2674$"JCheck the return value of the "read" call to see how many bytes were read.(±€å×úÿÿÿÿ8ãÆâ.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ãÆâ.
+k
+java:S20953"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(­û‘È8ãÆâ.
+E
+java:S1659")Declare "secondInput" on a separate line.(¿Öî;8ãÆâ.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ãÆâ.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ãÆâ.
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ãüõşÿÿÿÿ8ãÆâ.
+g
+java:S2674%"JCheck the return value of the "read" call to see how many bytes were read.(èËÖ—8ãÆâ.
+k
+java:S2259""IA "NullPointerException" could be thrown; "secondInput" is nullable here.(˜ˆ®«ıÿÿÿÿ8ãÆâ.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ù˜³§8ãÆâ.
+B
+java:S2129" Remove this "String" constructor(÷ıÜËùÿÿÿÿ8ÇèƒÆâ.

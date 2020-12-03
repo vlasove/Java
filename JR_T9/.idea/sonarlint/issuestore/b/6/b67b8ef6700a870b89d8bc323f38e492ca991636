@@ -1,0 +1,20 @@
+
+>
+java:S1643"Use a StringBuilder instead.(Ñş¬şÿÿÿÿ8˜»ÊÆâ.
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Úˆ˜“8´åÆâ.
+J
+java:S1604%"(Make this anonymous inner class a lambda(Õì­£øÿÿÿÿ8¥ÃºÇâ.
+W	java:S125"<This block of commented-out lines of code should be removed.(÷ÿèq8šÇ­Çâ.
+=
+java:S2129" Remove this "String" constructor(»æ˜8˜»ÊÆâ.
+m
+java:S1104Q"QMake value a static final constant or non-public and provide accessors if needed.(š˜Å]8‘ÉñÆâ.
+q
+java:S1104P"OMake key a static final constant or non-public and provide accessors if needed.(»ß¼ıÿÿÿÿÿ8‘ÉñÆâ.
+X	java:S125""<This block of commented-out lines of code should be removed.(±û²¾8¸Ë»Çâ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(³±Ç‚ùÿÿÿÿ8Ç”»Çâ.
+B
+java:S2129" Remove this "String" constructor(ƒ§İ¶úÿÿÿÿ8˜»ÊÆâ.
+O
+java:S1135"2Complete the task associated to this TODO comment.(‰±Ùğ8¸îÊÇâ.
