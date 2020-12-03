@@ -1,18 +1,18 @@
 
-b	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(»ö÷ê8»Ñ¾©â.
-D
-java:S1659"""Declare "last" on a separate line.(•âç³ûÿÿÿÿ8©•œ©â.
-L
-java:S1066"/Merge this if statement with the enclosing one.(ì«»Ø8¸·á©â.
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8­Ä¦â.
-i
-java:S2095!"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(à†Í•8Øœ ©â.
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8­Ä¦â.
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Éİëªøÿÿÿÿ8„€˜©â.
-K
-java:S1481"")Remove this unused "last" local variable.(•âç³ûÿÿÿÿ8¬£ğ©â.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ
 p
 java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(÷«ûÿÿÿÿ8”‹í©â.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8­Ä¦â.
+i
+java:S2095!"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(à†Í•8Øœ ©â.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ
+L
+java:S1066"/Merge this if statement with the enclosing one.(ì«»Ø8¸·á©â.
+D
+java:S1659"""Declare "last" on a separate line.(•âç³ûÿÿÿÿ8©•œ©â.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8­Ä¦â.
+K
+java:S1481"")Remove this unused "last" local variable.(•âç³ûÿÿÿÿ8¬£ğ©â.
+b	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(»ö÷ê8»Ñ¾©â.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Éİëªøÿÿÿÿ8„€˜©â.

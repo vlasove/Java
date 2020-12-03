@@ -1,0 +1,19 @@
+
+L
+java:S1128	"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8‡ËÖÂâ.
+s
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(ÏªÏáıÿÿÿÿ8½‘ÜÂâ.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‡ËÖÂâ.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(á¶­ú8‡ËÖÂâ.
+b
+java:S3518("@Make sure "countChars" can't be zero before doing this division.(ÏªÏáıÿÿÿÿ8½‘ÜÂâ.
+f
+java:S2259"DA "NullPointerException" could be thrown; "stream" is nullable here.(¿®ˆŠÿÿÿÿÿ8‡ËÖÂâ.
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8‡ËÖÂâ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÓ¿Î
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ÏªÏáıÿÿÿÿ8‡ËÖÂâ.
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8‡ËÖÂâ.
