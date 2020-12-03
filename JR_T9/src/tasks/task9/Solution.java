@@ -15,11 +15,11 @@ public class Solution {
         //String line = new String();
         String totalText = new String();
         //Считываем строку с текстом
-        try{
-            //TODO: Сделать считывание по символам +
+        try {
+            //TODO: Сделать считывание по символам ---Done
             stream = new FileInputStream(fileName);
-            while(stream.available() > 0){
-                totalText += String.valueOf((char)stream.read());
+            while (stream.available() > 0) {
+                totalText += String.valueOf((char) stream.read());
             }
             stream.close();
 //            reader = new BufferedReader(new FileReader(fileName));
@@ -27,9 +27,9 @@ public class Solution {
 //                totalText += line;
 //            }
 //            reader.close();
-        } catch (FileNotFoundException ffe){
+        } catch (FileNotFoundException ffe) {
             ffe.printStackTrace();
-        } catch (IOException ioe){
+        } catch (IOException ioe) {
             ioe.printStackTrace();
         }
         //System.out.println(totalText);
@@ -46,24 +46,24 @@ public class Solution {
                 int result = 0;
                 int val1 = (int) o1.key;
                 int val2 = (int) o2.key;
-                if(val1 > val2){
+                if (val1 > val2) {
                     result = 1;
-                } else if(val1 < val2){
+                } else if (val1 < val2) {
                     result = -1;
                 }
                 return result;
             }
         };
         Collections.sort(listPairsCounter, compareByASCII);
-        for(Pair pair : listPairsCounter){
-            System.out.println(pair.key  + " " + pair.value);
+        for (Pair pair : listPairsCounter) {
+            System.out.println(pair.key + " " + pair.value);
         }
     }
 
-    public static Map<Character, Integer> createCounter(String totalText){
+    public static Map<Character, Integer> createCounter(String totalText) {
         Map<Character, Integer> counter = new HashMap<>();
-        for(int i=0; i < totalText.length(); i++){
-            if(counter.containsKey(totalText.charAt(i))){
+        for (int i = 0; i < totalText.length(); i++) {
+            if (counter.containsKey(totalText.charAt(i))) {
                 counter.put(totalText.charAt(i), counter.get(totalText.charAt(i)) + 1);
             } else {
                 counter.put(totalText.charAt(i), 1);
@@ -72,9 +72,9 @@ public class Solution {
         return counter;
     }
 
-    public static List<Pair> createSortedList(Map<Character, Integer> counter){
+    public static List<Pair> createSortedList(Map<Character, Integer> counter) {
         List<Pair> lst = new ArrayList<>();
-        for(Map.Entry<Character, Integer> pair : counter.entrySet()){
+        for (Map.Entry<Character, Integer> pair : counter.entrySet()) {
             Pair currentPair = new Pair(pair.getKey(), pair.getValue());
             lst.add(currentPair);
         }
@@ -86,16 +86,16 @@ public class Solution {
         public Character key;
         public Integer value;
 
-        public Pair(Character key, Integer value){
+        public Pair(Character key, Integer value) {
             this.key = key;
             this.value = value;
         }
 
-        public Character getKey(){
+        public Character getKey() {
             return this.key;
         }
 
-        public Integer getValue(){
+        public Integer getValue() {
             return this.value;
         }
     }
