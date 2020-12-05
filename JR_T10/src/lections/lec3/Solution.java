@@ -7,11 +7,49 @@ import java.util.Map;
 public class Solution {
     public static Map<String, String> countries = new HashMap<String, String>();
 
+    static {
+        countries.put("UA", "Ukraine");
+        countries.put("RU", "Russia");
+        countries.put("CA", "Canada");
+    }
+
     public static void main(String[] args) {
 
     }
 
-    public static class IncomeDataAdapter {
+    public static class IncomeDataAdapter implements Contact, Customer {
+        private IncomeData data;
+
+        public IncomeDataAdapter(IncomeData data) {
+            this.data = data;
+        }
+
+        @Override
+        public String getCompanyName() {
+            return this.data.getCompany();
+        }
+
+        @Override
+        public String getCountryName() {
+            return countries.get(this.data.getCountryCode());
+        }
+
+        @Override
+        public String getName() {
+            return String.format("%s, %s", this.data.getContactLastName(), this.data.getContactFirstName());
+        }
+
+        @Override
+        public String getPhoneNumber() {
+            //Добиваем до длины 10
+            String number = Integer.toString(this.data.getPhoneNumber());
+            while (number.length() < 10) {
+                number = "0" + number;
+            }
+            int code = this.data.getCountryPhoneCode();
+            String totalNumber = String.format("+%d(%s)%s-%s-%s", code, number.substring(0, 3), number.substring(3, 6), number.substring(6, 8), number.substring(8, 10));
+            return totalNumber;
+        }
     }
 
 
