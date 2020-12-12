@@ -53,3 +53,11 @@ M
 src/tasks/task8/Solution.java,a\e\ae2c2b85de1525365e20804f2ab251409882b127
 M
 src/tasks/task9/Solution.java,b\6\b67b8ef6700a870b89d8bc323f38e492ca991636
+N
+src/tasks/task11/Solution.java,d\c\dc386533c33d8cdc01c5f8a2b73eb0341c60812d
+N
+src/tasks/task10/Solution.java,7\5\75d7a52bd2dc2f94ba16c5663e182b38dfe5ece8
+N
+src/tasks/task12/Solution.java,5\8\58b54cf90f42d71cd3214e1dbfac380e5bd63084
+N
+src/tasks/task13/Solution.java,f\2\f2c2b8dabeb45e115fcc4ae96e8a52f1113abc84

@@ -1,0 +1,16 @@
+
+?
+java:S2386"Make this member "protected".(Ϋκμϊÿÿÿÿ8°‘Επα.
+E	java:S108:")Either remove or fill this block of code.(δ Ή€8°‘Επα.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚κγÒϋÿÿÿÿ8°‘Επα.
+c
+java:S2142:"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8°‘Επα.
+M
+java:S1444"+Make this "public static count" field final(όªΊ‰ύÿÿÿÿ8°‘Επα.
+s
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(όªΊ‰ύÿÿÿÿ8°‘Επα.
+t
+java:S1104"RMake values a static final constant or non-public and provide accessors if needed.(Ϋκμϊÿÿÿÿ8°‘Επα.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ύ»ψτ
+N
+java:S1444",Make this "public static values" field final(Ϋκμϊÿÿÿÿ8°‘Επα.

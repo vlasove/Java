@@ -1,0 +1,10 @@
+
+U	java:S106""9Replace this use of System.out or System.err by a logger.(™Ãø¤8Å‹¿Ñâ.
+=
+java:S2129" Remove this "String" constructor(½—å¶8œÉ½Ñâ.
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¡•ù8œÉ½Ñâ.
+`
+java:S1128">Remove this unused import 'java.awt.desktop.ScreenSleepEvent'.(¹Õ–Êùÿÿÿÿ8­ï³Ñâ.
+=
+java:S2129	" Remove this "String" constructor(Ú‰±ä8­ï³Ñâ.

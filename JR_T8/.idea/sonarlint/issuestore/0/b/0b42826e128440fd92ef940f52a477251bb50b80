@@ -1,0 +1,26 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(έ¬Ϋ¥ϋÿÿÿÿ8”ζπα.
+|
+java:S1104"ZMake forRemoveLines a static final constant or non-public and provide accessors if needed.(έ¬Ϋ¥ϋÿÿÿÿ8”ζπα.
+v
+java:S1104"TMake allLines a static final constant or non-public and provide accessors if needed.(νεÿÿÿÿÿ8”ζπα.
+?
+java:S2386"Make this member "protected".(έ¬Ϋ¥ϋÿÿÿÿ8”ζπα.
+V
+java:S1444"4Make this "public static forRemoveLines" field final(έ¬Ϋ¥ϋÿÿÿÿ8”ζπα.
+i
+java:S2095)"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ΜΆό8ƒ•©πα.
+?
+java:S2386"Make this member "protected".(νεÿÿÿÿÿ8”ζπα.
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(τΗΉξϋÿÿÿÿ8υπ¤πα.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(νεÿÿÿÿÿ8”ζπα.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΙΪνƒ
+>
+java:S1116!"Remove this empty statement.(Έ•Ύώÿÿÿÿ8υπ¤πα.
+>
+java:S1116-"Remove this empty statement.(Έ•Ύώÿÿÿÿ8ƒ•©πα.
+P
+java:S1444".Make this "public static allLines" field final(νεÿÿÿÿÿ8”ζπα.

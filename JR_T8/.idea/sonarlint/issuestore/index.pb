@@ -45,3 +45,15 @@ D
 src/task5/Beach.java,0\4\04ea7529c27d4d88d5df1401cb90147c560778be
 G
 src/task6/Solution.java,9\1\91dad60ec21afbe7fbbf539eb9af3f80436fd7f9
+V
+&src/task8/NotEnoughMoneyException.java,5\1\518cf7cce2ffb60acb5175ee5d593b937369d9d8
+G
+src/task8/Bankomat.java,3\e\3e9f118ccb6ed5ccb78b7993af7255a61e061926
+J
+src/task8/BankAccount.java,3\9\39db9b980e71333873800661672b2c353be5fec1
+U
+%src/task9/CorruptedDataException.java,c\f\cf135e97060ea99db790e4e39c0cf267d4c11d1f
+G
+src/task9/Solution.java,0\b\0b42826e128440fd92ef940f52a477251bb50b80
+H
+src/task10/Solution.java,5\c\5c8f50ddb6a74487b9f2696ff2cf730237da9964

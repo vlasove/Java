@@ -1,17 +1,17 @@
 
-p
-java:S2095="NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ç”öœøÿÿÿÿ8áû´Æâ.
+9
+java:S16434"Use a StringBuilder instead.(Ó´½Å8õõ¯Æâ.
+9
+java:S16432"Use a StringBuilder instead.(ˆÙ‚Î8õõ¯Æâ.
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Çá´‚úÿÿÿÿ8ÉÂ•Æâ.
+B
+java:S2129" Remove this "String" constructor(÷ıÜËùÿÿÿÿ8öş‹Æâ.
 =
 java:S2129" Remove this "String" constructor(Ñõ¬Ø8öş‹Æâ.
 =
 java:S2129" Remove this "String" constructor(£œºİ8ÉÂ•Æâ.
-n
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Çá´‚úÿÿÿÿ8ÉÂ•Æâ.
-9
-java:S16432"Use a StringBuilder instead.(ˆÙ‚Î8õõ¯Æâ.
-B
-java:S2129" Remove this "String" constructor(÷ıÜËùÿÿÿÿ8öş‹Æâ.
-9
-java:S16434"Use a StringBuilder instead.(Ó´½Å8õõ¯Æâ.
+p
+java:S2095="NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ç”öœøÿÿÿÿ8áû´Æâ.
 B
 java:S2129/" Remove this "String" constructor(Èê×ÿÿÿÿÿ8õõ¯Æâ.

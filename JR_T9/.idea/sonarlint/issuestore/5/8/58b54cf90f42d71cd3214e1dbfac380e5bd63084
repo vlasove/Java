@@ -1,0 +1,18 @@
+
+j
+java:S2095+"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(æ„ğ8¦¿™Òâ.
+r
+java:S1104"UMake resultMap a static final constant or non-public and provide accessors if needed.(ŸŸÛ÷8ßâƒÒâ.
+:
+java:S2386"Make this member "protected".(ŸŸÛ÷8ßâƒÒâ.
+L
+java:S1444"/Make this "public static resultMap" field final(ŸŸÛ÷8ßâƒÒâ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸŸÛ÷8ßâƒÒâ.
+=
+java:S2129" Remove this "String" constructor(Ú‰±ä8çå±Òâ.
+h
+java:S2259C"FA "NullPointerException" could be thrown; "maxEntry" is nullable here.(üì”üÿÿÿÿ8ã«®Òâ.
+Y
+java:S1854"<Remove this useless assignment to local variable "fileName".(Ú‰±ä8çå±Òâ.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¿Ç¶Òâ.
