@@ -15,14 +15,14 @@ public class Solution {
         try {
             fileName = reader.readLine();
             reader.close();
-        } catch (IOException ioe){
+        } catch (IOException ioe) {
             ioe.printStackTrace();
         }
 
         FileOutputStream writer = null;
         try {
             writer = new FileOutputStream(fileName);
-        } catch (IOException ioe){
+        } catch (IOException ioe) {
             ioe.printStackTrace();
         }
 
@@ -36,10 +36,10 @@ public class Solution {
         String result = outputStream.toString();
         System.out.println(result);
 
-        try{
+        try {
             writer.write(result.getBytes());
             writer.close();
-        } catch (IOException ioe){
+        } catch (IOException ioe) {
             ioe.printStackTrace();
         }
     }
