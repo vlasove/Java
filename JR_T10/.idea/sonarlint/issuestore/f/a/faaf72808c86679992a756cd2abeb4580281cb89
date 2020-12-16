@@ -1,12 +1,12 @@
 
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Ë¾™ä8™ßÒ‘ã.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ8‘ƒä‘ã.
 =
 java:S2129
 " Remove this "String" constructor(Ú‰±ä8™ßÒ‘ã.
-e
-java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Ë¾™ä8™ßÒ‘ã.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºƒÂ½ýÿÿÿÿ8‘ƒä‘ã.
 j
 java:S2259"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(šþïÝøÿÿÿÿ8Ù®Û‘ã.
 9
 java:S1116"Remove this empty statement.(ÕÜï¡8™ßÒ‘ã.
-r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºƒÂ½ýÿÿÿÿ8‘ƒä‘ã.
-Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ8‘ƒä‘ã.

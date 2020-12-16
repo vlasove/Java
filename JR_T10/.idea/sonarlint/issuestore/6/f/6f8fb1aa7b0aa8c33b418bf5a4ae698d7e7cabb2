@@ -1,15 +1,15 @@
 
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Çá´‚úÿÿÿÿ8¡ãç’ã.
 j
-java:S22591"HA "NullPointerException" could be thrown; "fileWriter" is nullable here.( Ò•‹ûÿÿÿÿ8­Çñ’ã.
+java:S2259$"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(šþïÝøÿÿÿÿ8¡ãç’ã.
 B
 java:S2129
 " Remove this "String" constructor(÷ýÜËùÿÿÿÿ8¡ãç’ã.
-r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š€Žýÿÿÿÿ8Ò½é’ã.
-j
-java:S2259$"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(šþïÝøÿÿÿÿ8¡ãç’ã.
 i
 java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(­Ë¦½8¡ãç’ã.
-n
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Çá´‚úÿÿÿÿ8¡ãç’ã.
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š€Žýÿÿÿÿ8Ò½é’ã.
+j
+java:S22591"HA "NullPointerException" could be thrown; "fileWriter" is nullable here.( Ò•‹ûÿÿÿÿ8­Çñ’ã.
 =
 java:S2129	" Remove this "String" constructor(Ñõ¬Ø8¡ãç’ã.
