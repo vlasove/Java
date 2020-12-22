@@ -1,12 +1,12 @@
 
-x
-java:S1104"VMake testString a static final constant or non-public and provide accessors if needed.(¦ðêÝùÿÿÿÿ8í„»Üæ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ô¤„å8»£ÆÜæ.
+=
+java:S2129" Remove this "String" constructor(¿÷ÇÓ8òçÁÜæ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Î×Íª8í„»Üæ.
+>
+java:S1643"Use a StringBuilder instead.(­©’ïùÿÿÿÿ8»£ÆÜæ.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(›‡ ·8Û»Üæ.
 R
 java:S1444"0Make this "public static testString" field final(¦ðêÝùÿÿÿÿ8í„»Üæ.
-U	java:S106!"9Replace this use of System.out or System.err by a logger.(Î×Íª8í„»Üæ.
-=
-java:S2129" Remove this "String" constructor(¿÷ÇÓ8òçÁÜæ.
->
-java:S1643"Use a StringBuilder instead.(­©’ïùÿÿÿÿ8»£ÆÜæ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ô¤„å8»£ÆÜæ.
+x
+java:S1104"VMake testString a static final constant or non-public and provide accessors if needed.(¦ðêÝùÿÿÿÿ8í„»Üæ.

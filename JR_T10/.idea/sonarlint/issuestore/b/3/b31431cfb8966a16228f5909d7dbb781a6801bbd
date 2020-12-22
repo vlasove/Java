@@ -1,13 +1,13 @@
 
-R
-java:S1444"0Make this "public static testString" field final(¦ğêİùÿÿÿÿ8§£ÌÜæ.
-U	java:S106""9Replace this use of System.out or System.err by a logger.(˜æöÂ8³ÑèÜæ.
-o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‰–şÿÿÿÿ8³ÑèÜæ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œæ©ùÿÿÿÿ8š†íÜæ.
 U	java:S106
 "9Replace this use of System.out or System.err by a logger.(›‡ ·8•ÎÜæ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(˜æöÂ8³ÑèÜæ.
+>	java:S1311""Add a default case to this switch.(„¿‰Õ8³ÑèÜæ.
+o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‰–şÿÿÿÿ8³ÑèÜæ.
 x
 java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ans".(ÔÅ Â8¥‚ìÜæ.
+R
+java:S1444"0Make this "public static testString" field final(¦ğêİùÿÿÿÿ8§£ÌÜæ.
 x
 java:S1104"VMake testString a static final constant or non-public and provide accessors if needed.(¦ğêİùÿÿÿÿ8§£ÌÜæ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œæ©ùÿÿÿÿ8š†íÜæ.
->	java:S1311""Add a default case to this switch.(„¿‰Õ8³ÑèÜæ.
