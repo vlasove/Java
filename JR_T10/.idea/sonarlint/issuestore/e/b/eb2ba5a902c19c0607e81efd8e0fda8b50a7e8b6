@@ -1,19 +1,19 @@
 
-B
-java:S2129" Remove this "String" constructor(Å±áıÿÿÿÿ8ğæêã.
 j
 java:S2259"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(šşïİøÿÿÿÿ8¤ıóã.
-e
-java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ûäÿÛ8“Îğã.
-j
-java:S2259""HA "NullPointerException" could be thrown; "fileWriter" is nullable here.(¾÷Ù¤úÿÿÿÿ8…åøã.
 B
 java:S2129" Remove this "String" constructor(Å±áıÿÿÿÿ8ğæêã.
-j
-java:S2259'"HA "NullPointerException" could be thrown; "fileWriter" is nullable here.(§¾áïûÿÿÿÿ8ª¸ùã.
-T
-java:S1128"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ8ğæêã.
 N
 java:S1659",Declare "secondFileName" on a separate line.(Å±áıÿÿÿÿ8ğæêã.
 d
 java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ğ·ö#8“Îğã.
+j
+java:S2259'"HA "NullPointerException" could be thrown; "fileWriter" is nullable here.(§¾áïûÿÿÿÿ8ª¸ùã.
+B
+java:S2129" Remove this "String" constructor(Å±áıÿÿÿÿ8ğæêã.
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ûäÿÛ8“Îğã.
+j
+java:S2259""HA "NullPointerException" could be thrown; "fileWriter" is nullable here.(¾÷Ù¤úÿÿÿÿ8…åøã.
+T
+java:S1128"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ8ğæêã.

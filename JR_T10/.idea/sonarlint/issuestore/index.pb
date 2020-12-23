@@ -41,3 +41,13 @@ P
 keke.txt,2\1\2196b111a94ff4e19b4c0a8aa9f1c1c3a2f69cd4
 P
  src/lections/lec16/Solution.java,9\f\9fa751f4c21f3b4eaf62779ca47a178c0bf0c8af
+M
+src/lections/lec18/sample.txt,f\3\f397588292019b737aebbb7b1203e34dbfcfe276
+P
+ src/lections/lec17/Solution.java,9\f\9f2ce2625b77609afdc0910990f52955711b9a6e
+P
+ src/lections/lec18/Solution.java,7\6\76797e09b7f3c521c7dee748d92a9ac470ef6de8
+=
+firstFile.txt,0\1\015d9fe6f4182619dc12065b5a6705451605bc3a
+>
+secondFile.txt,6\5\65610b7d63221596cfcaf16347d2d1a610612db7
