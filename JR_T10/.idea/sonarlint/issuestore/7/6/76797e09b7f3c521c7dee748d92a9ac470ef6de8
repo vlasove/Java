@@ -1,36 +1,32 @@
 
-Z	java:S106a"9Replace this use of System.out or System.err by a logger.(”Ò¦¢ûÿÿÿÿ8àåÕİè.
-=
-java:S2129" Remove this "String" constructor(Ñõ¬Ø8“ò—Úè.
-m
-java:S1104n"PMake line a static final constant or non-public and provide accessors if needed.(•šÕÄ8àåÕİè.
-8
-java:S3626G"Remove this redundant jump.(ûÁİ…8Ü›¨ßè.
-8
-java:S36261"Remove this redundant jump.(ÉŠ©ƒ8Ü›¨ßè.
-8
-java:S36266"Remove this redundant jump.(ÉŠ©ƒ8Ü›¨ßè.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÖİÚÑşÿÿÿÿ8¬–šİè.
-8
-java:S3626;"Remove this redundant jump.(ÉŠ©ƒ8Ü›¨ßè.
 ?
-java:S2386"Make this member "protected".(¨şÛ€ûÿÿÿÿ8†×îÙè.
-F
-java:S2786f")Remove this redundant "static" qualifier.(Ğ«“„8àåÕİè.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨şÛ€ûÿÿÿÿ8†×îÙè.
+java:S2386"Make this member "protected".(¨şÛ€ûÿÿÿÿ8†×îÙè.
 s
-java:S1104"QMake lines a static final constant or non-public and provide accessors if needed.(¨şÛ€ûÿÿÿÿ8†×îÙè.
-t	java:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(‡¿§8Ü›¨ßè.
+java:S1104"QMake lines a static final constant or non-public and provide accessors if needed.(¨şÛ€ûÿÿÿÿ8†×îÙè.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨şÛ€ûÿÿÿÿ8†×îÙè.
+n
+java:S1104"PMake line a static final constant or non-public and provide accessors if needed.(•šÕÄ8ù”«ƒé.
+Q
+java:S1128"5Remove this unused import 'javax.sound.sampled.Line'.(·öë/8íˆ„„é.
 f
-java:S2259U"DA "NullPointerException" could be thrown; "reader" is nullable here.(ê§‚›ÿÿÿÿÿ8àåÕİè.
-M
-java:S1444"+Make this "public static lines" field final(¨şÛ€ûÿÿÿÿ8†×îÙè.
+java:S2259w"DA "NullPointerException" could be thrown; "reader" is nullable here.(ê§‚›ÿÿÿÿÿ8ù”«ƒé.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ÖİÚÑşÿÿÿÿ8­æ®ƒé.
+[
+java:S1155i">Use isEmpty() to check whether the collection is empty or not.(“¦²İ8÷„‰„é.
+G
+java:S2786•")Remove this redundant "static" qualifier.(Ğ«“„8ù”«ƒé.
+s
+java:S1104œ"PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8ù”«ƒé.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(íãáò8­æ®ƒé.
 B
-java:S2129" Remove this "String" constructor(÷ıÜËùÿÿÿÿ8“ò—Úè.
+java:S2129" Remove this "String" constructor(÷ıÜËùÿÿÿÿ8“ò—Úè.
 i
-java:S2095O"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Úˆ˜“8àåÕİè.
-r
-java:S1104m"PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8†×îÙè.
-U	java:S106!"9Replace this use of System.out or System.err by a logger.(íãáò8Ü…™İè.
-W	java:S125*"<This block of commented-out lines of code should be removed.(‹ßm8Ü›¨ßè.
+java:S2095q"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Úˆ˜“8ù”«ƒé.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(”Ò¦¢ûÿÿÿÿ8ù”«ƒé.
+M
+java:S1444"+Make this "public static lines" field final(¨şÛ€ûÿÿÿÿ8†×îÙè.
+`
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(¶“ƒšıÿÿÿÿ8–ü†„é.
+=
+java:S2129" Remove this "String" constructor(Ñõ¬Ø8“ò—Úè.
