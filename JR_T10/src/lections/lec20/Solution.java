@@ -46,7 +46,7 @@ public class Solution {
         String closeTag = "</" + args[0];
         int closedTagLength = closeTag.length();
 
-        //TODO: implements HTML parser
+
         //Наполняем стеки с тегами индексами
         TagStack openTagsIDs = makeStack(content, openTag);
         TagStack closedTagsIDs = makeStack(content, closeTag);
@@ -62,6 +62,7 @@ public class Solution {
 
     public static StringStack makeStringStack(TagStack openTagsIDs, TagStack closedTagsIDs, int closedTagLength, String content){
         StringStack stack = new StringStack();
+        //TODO:Нужна другая логика наполнения стеков
         while(!openTagsIDs.isEmpty() && !closedTagsIDs.isEmpty()){
             int start = openTagsIDs.popFromStack();
             int finish = closedTagsIDs.popFromStack();
@@ -71,6 +72,7 @@ public class Solution {
     }
 
     public static TagStack makeStack(String content, String tag){
+        //TODO: нужно заполнять стеки по необходимости
         TagStack stack = new TagStack();
         int index = content.indexOf(tag);
         while(index >= 0){
