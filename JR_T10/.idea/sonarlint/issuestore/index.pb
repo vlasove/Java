@@ -53,7 +53,9 @@ P
 secondFile.txt,6\5\65610b7d63221596cfcaf16347d2d1a610612db7
 Y
 )src/lections/lec19/FileConsoleWriter.java,d\2\d2dc9ebdffc0a2a31f9c5448c640cc4ba48bde01
-9
-	test.html,5\0\5017803b9ee9b00cc52db4a18a64b71cfc076fd7
 P
  src/lections/lec20/Solution.java,c\b\cb250928b83b2362a3403cdfe001c236934318e0
+?
+outputTest.html,9\5\9517548b54b02fa75e635c5b0fe32eabf28b7ea0
+>
+inputTest.html,a\4\a43902ba5a4ed46132cc070210e73422d40a7850

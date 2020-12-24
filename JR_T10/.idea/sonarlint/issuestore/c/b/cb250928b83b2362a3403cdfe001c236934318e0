@@ -1,18 +1,21 @@
 
 j
-java:S2259"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(šþïÝøÿÿÿÿ8†ëÎ…é.
+java:S2259!"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(šþïÝøÿÿÿÿ8†ëÎ…é.
+X
+java:S1128"6Remove this unused import 'javax.swing.text.Document'.(·ßó’þÿÿÿÿ8ôÍÖ‡é.
+T
+java:S1135A"2Complete the task associated to this TODO comment.(£ÅŒˆûÿÿÿÿ8ç°Ë‰é.
+O
+java:S1135K"2Complete the task associated to this TODO comment.(¢†ê±8™‹Í‰é.
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8¤Éüˆé.
+T
+java:S1128"7Remove this unused import 'javax.swing.text.html.HTML'.(üãôÝ8ÊÑË‰é.
 =
-java:S2129" Remove this "String" constructor(Ú‰±ä8¡áÆ…é.
-O
-java:S1481("-Remove this unused "closeTag" local variable.(þ´œ‹úÿÿÿÿ8÷µÕ…é.
+java:S2129" Remove this "String" constructor(Ú‰±ä8¡áÆ…é.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(‚·«Ÿúÿÿÿÿ8¨×š‰é.
+]	java:S125*"<This block of commented-out lines of code should be removed.(´ªõÊøÿÿÿÿ8•ï×ˆé.
 i
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¡•ù8ó“Ë…é.
-U	java:S106$"9Replace this use of System.out or System.err by a logger.(žù§é8ºÛÐ…é.
-O
-java:S1135*"2Complete the task associated to this TODO comment.(îãÙÔ8¤Üá…é.
-^
-java:S1854("<Remove this useless assignment to local variable "closeTag".(þ´œ‹úÿÿÿÿ8÷µÕ…é.
-N
-java:S1481'",Remove this unused "openTag" local variable.(èçé¾üÿÿÿÿ8÷µÕ…é.
-]
-java:S1854'";Remove this useless assignment to local variable "openTag".(èçé¾üÿÿÿÿ8÷µÕ…é.
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¡•ù8ó“Ë…é.
+j
+java:S5361)"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ó•¤÷þÿÿÿÿ8Ü§ßˆé.
