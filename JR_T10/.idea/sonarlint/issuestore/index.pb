@@ -65,3 +65,7 @@ P
  src/lections/lec21/Solution.java,4\a\4a2ddbc080daf8ea4f860e8ee4f0a358484d5662
 P
  src/lections/lec22/Solution.java,e\5\e5b5ca76681a5978a1c0ce9a458b15593d1a9d9e
+N
+src/lections/lec23/Person.java,b\4\b4d2082a1ff5d5f203cff93afd08469dcbbb6439
+P
+ src/lections/lec23/Solution.java,2\c\2c8335e76a40891438916e2153be1e132b20d9f6
