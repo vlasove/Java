@@ -1,26 +1,26 @@
 
 j
-java:S5361&"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ó•¤÷şÿÿÿÿ8Ü§ßˆé.
-=
-java:S2129" Remove this "String" constructor(Ú‰±ä8¡áÆ…é.
-Q
-java:S1128"5Remove this unused import 'javax.sound.sampled.Line'.(·öë/8Ëå‘¯é.
-j
 java:S2259"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(šşïİøÿÿÿÿ8†ëÎ…é.
-X
-java:S1128"6Remove this unused import 'javax.swing.text.Document'.(·ßó’şÿÿÿÿ8ôÍÖ‡é.
-s
-java:S1104·"UMake openTagID a static final constant or non-public and provide accessors if needed.(Ñ„Õ8˜à¥¯é.
-i
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¡•ù8¤÷Í¬é.
 T
 java:S1128"7Remove this unused import 'javax.swing.text.html.HTML'.(üãôİ8ÊÑË‰é.
-]	java:S125+"<This block of commented-out lines of code should be removed.(´ªõÊøÿÿÿÿ8•ï×ˆé.
-]	java:S125="<This block of commented-out lines of code should be removed.(şìöıÿÿÿÿ8´ôš®é.
 ]	java:S125c"<This block of commented-out lines of code should be removed.(¼ñùÿÿÿÿ8ã‚ñ®é.
-Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ï‰¢„ùÿÿÿÿ8âÂœ®é.
-]	java:S1252"<This block of commented-out lines of code should be removed.(ßĞÖéûÿÿÿÿ8Øı¡®é.
+Q
+java:S1128"5Remove this unused import 'javax.sound.sampled.Line'.(·öë/8Ëå‘¯é.
+X
+java:S1128"6Remove this unused import 'javax.swing.text.Document'.(·ßó’şÿÿÿÿ8ôÍÖ‡é.
 m
 java:S1104¶"OMake str a static final constant or non-public and provide accessors if needed.(¼òšı8é·¥¯é.
 E
 java:S1604B"(Make this anonymous inner class a lambda(ŞüÚĞ8¤¿¤¯é.
+j
+java:S5361&"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ó•¤÷şÿÿÿÿ8Ü§ßˆé.
+]	java:S125="<This block of commented-out lines of code should be removed.(şìöıÿÿÿÿ8´ôš®é.
+=
+java:S2129" Remove this "String" constructor(Ú‰±ä8¡áÆ…é.
+]	java:S125+"<This block of commented-out lines of code should be removed.(´ªõÊøÿÿÿÿ8•ï×ˆé.
+s
+java:S1104·"UMake openTagID a static final constant or non-public and provide accessors if needed.(Ñ„Õ8˜à¥¯é.
+]	java:S1252"<This block of commented-out lines of code should be removed.(ßĞÖéûÿÿÿÿ8Øı¡®é.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ï‰¢„ùÿÿÿÿ8âÂœ®é.
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¡•ù8¤÷Í¬é.
