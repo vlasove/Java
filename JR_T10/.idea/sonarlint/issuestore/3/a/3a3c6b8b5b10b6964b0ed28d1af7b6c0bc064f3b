@@ -1,0 +1,17 @@
+
+e
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‡ûÃ¿8ƒòÛ²é.
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ß˜Í8ƒòÛ²é.
+W
+java:S1854":Remove this useless assignment to local variable "reader".(ß˜Í8ƒòÛ²é.
+M
+java:S1481"+Remove this unused "writer" local variable.(äÌöşÿÿÿÿ8ƒòÛ²é.
+M
+java:S1481"+Remove this unused "reader" local variable.(û…§£ÿÿÿÿÿ8ƒòÛ²é.
+K
+java:S1121!".Extract the assignment out of this expression.(í‚Í8À„Ö²é.
+T
+java:S1135"2Complete the task associated to this TODO comment.(¢ÂÓ†şÿÿÿÿ8°ìß²é.
+W
+java:S1854":Remove this useless assignment to local variable "writer".(‡ûÃ¿8ƒòÛ²é.
