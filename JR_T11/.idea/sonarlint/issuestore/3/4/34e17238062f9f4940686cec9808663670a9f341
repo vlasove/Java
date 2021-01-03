@@ -1,17 +1,17 @@
 
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¤şÒ8Ú­âë.
 j
 java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¼ğõÀ8Ú­âë.
 U	java:S106$"9Replace this use of System.out or System.err by a logger.(÷ Í8Ú­âë.
-g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(æÓ÷úÿÿÿÿ8Ú­âë.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¢–œıÿÿÿÿ8‹²ëë.
-X	java:S125#"<This block of commented-out lines of code should be removed.(†€éˆ8Ú­âë.
-g	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(ÖÿşÏşÿÿÿÿ8Ú­âë.
 m
 java:S1104)"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8Ú­âë.
+X	java:S125#"<This block of commented-out lines of code should be removed.(†€éˆ8Ú­âë.
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(æÓ÷úÿÿÿÿ8Ú­âë.
 k
 java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¿¼ÜÂ8Ú­âë.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(È¢Ã¥şÿÿÿÿ8Ú­âë.
+g	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(ÖÿşÏşÿÿÿÿ8Ú­âë.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¢–œıÿÿÿÿ8‹²ëë.
 t
 java:S1104*"RMake assets a static final constant or non-public and provide accessors if needed.(ÆáùŞÿÿÿÿÿ8Ú­âë.
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(È¢Ã¥şÿÿÿÿ8Ú­âë.
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¤şÒ8Ú­âë.
 X	java:S125 "<This block of commented-out lines of code should be removed.(†€éˆ8Ú­âë.

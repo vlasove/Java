@@ -15,3 +15,19 @@ L
 src/lections/lec5/Asset.java,e\7\e71f5ac43b3947e79c58956908a3da702aeaf649
 O
 src/lections/lec5/Solution.java,9\e\9e5da68992b6891b17503d92fbcd68576574022b
+O
+src/lections/lec6/Solution.java,e\b\eb2ba5a902c19c0607e81efd8e0fda8b50a7e8b6
+O
+src/lections/lec7/Solution.java,f\a\faaf72808c86679992a756cd2abeb4580281cb89
+O
+src/lections/lec8/Solution.java,c\2\c28ae5ff1e4be80df4ccbc8864fd14b5f54b4447
+O
+src/lections/lec9/Solution.java,6\f\6f8fb1aa7b0aa8c33b418bf5a4ae698d7e7cabb2
+P
+ src/lections/lec10/Solution.java,e\c\ec5029cacf129eed585027788b4ddf23bdf42d3f
+P
+ src/lections/lec11/Solution.java,d\e\de882e33d9019934426aa479e622661f0dedc9cf
+P
+ src/lections/lec12/Solution.java,1\2\120b0303d35c38716201ebf25eed7d1958517156
+P
+ src/lections/lec13/Solution.java,5\c\5c6606867fb6f97a76a08c9ebca1d63f8d0304c4

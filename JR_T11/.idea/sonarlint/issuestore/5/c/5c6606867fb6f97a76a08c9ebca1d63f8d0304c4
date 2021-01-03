@@ -1,0 +1,6 @@
+
+ž
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8¡÷éÇì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(öµï€úÿÿÿÿ8€›îÇì.
+E
+java:S1068")Remove this unused "speed" private field.(‡ÚÙ)8¡÷éÇì.
